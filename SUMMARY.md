@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [1. Review the Pre-Publishing Checklist](review-the-pre-publishing-checklist.md)
+* [1. Prepare data](1.-prepare-data.md)
+* [Consolidate and Merge Raw Data](consolidate-and-merge-raw-data.md)
+* [Simplify and Clean Data](simplify-and-clean-data.md)
+* [3. Create Metadata and Data Dictionary](create-metadata-and-data-dictionary.md)
+* [4. Upload the Dataset](upload-the-dataset.md)
+* [5. Get Final Publishing Approval](get-publishing-approval.md)
+* [6. Update and Maintain the Dataset](update-and-maintain-the-dataset.md)
+* [Reference and additional documents](reference-and-additional-documents/README.md)
+  * [Jason add reference to orgs that have different publishing](reference-and-additional-documents/jason-add-reference-to-orgs-that-have-different-publishing.md)
+  * [Metadata Field Definitions](reference-and-additional-documents/metadata-field-definitions.md)
+  * [Data Dictionary: What to Include](reference-and-additional-documents/data-dictionary-what-to-include.md)
+  * [Detailed Steps for Uploading Data to the Portal](reference-and-additional-documents/detailed-steps-for-uploading-data-to-the-portal.md)
+* [Help & FAQ](help-and-faq.md)
+
