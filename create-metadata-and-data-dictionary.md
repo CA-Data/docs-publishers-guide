@@ -33,11 +33,11 @@ Metadata is necessary to improve the discoverability of data within the open dat
 
 #### **Illustrative example 1: **
 
-![](<.gitbook/assets/Screenshot 2021-09-24 at 7.32.38 PM.png>)
+![](.gitbook/assets/screenshot-2021-09-24-at-7.32.38-pm.png)
 
 **Illustrative example 2:**
 
-![](<.gitbook/assets/Screenshot 2021-09-24 at 7.34.23 PM.png>)
+![](.gitbook/assets/screenshot-2021-09-24-at-7.34.23-pm.png)
 
 ###
 
@@ -49,11 +49,11 @@ Metadata is necessary to improve the discoverability of data within the open dat
 
 **Illustrative example 1: **
 
-![](<.gitbook/assets/Screenshot 2021-09-24 at 7.58.00 PM.png>)
+![](.gitbook/assets/screenshot-2021-09-24-at-7.58.00-pm.png)
 
 **Illustrative example 2: **
 
-![](<.gitbook/assets/Screenshot 2021-09-24 at 7.58.17 PM.png>)
+![](.gitbook/assets/screenshot-2021-09-24-at-7.58.17-pm.png)
 
 ## Create your data dictionary
 

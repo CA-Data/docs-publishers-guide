@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Introduction](<README (1).md>)
 * [1. Review the Pre-Publishing Checklist](review-the-pre-publishing-checklist.md)
 * [1. Prepare data](1.-prepare-data.md)
 * [Consolidate and Merge Raw Data](consolidate-and-merge-raw-data.md)
