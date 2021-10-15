@@ -15,14 +15,14 @@ Metadata is necessary to improve the discoverability of data within the open dat
 ****:open_file_folder: **Additional Resources:** [Download the metadata template](https://docs.google.com/spreadsheets/u/0/d/1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4/edit) to fill in the required information. 
 {% endhint %}
 
-**General checklist: **
+### **General checklist: **
 
 * [ ] Fill in the metadata fields relevant to your dataset - [see metadata field definition reference](reference-and-additional-documents/metadata-field-definitions.md)
 * [ ] Make sure your dataset title is accessible and descriptive  
 * [ ] Ensure your dataset description is user friendly
 
 {% hint style="info" %}
-****:open_file_folder: **Additional** **Resources:** Refer to [this list](reference-and-additional-documents/metadata-field-definitions.md) for definitions of and further guidance on metadata fields. 
+****:open_file_folder: **Additional** **Resources:** Refer to [Metadata Field Definitions ](reference-and-additional-documents/metadata-field-definitions.md)for definitions of and further guidance on metadata fields. 
 {% endhint %}
 
 ### ****:page_with_curl: **Best practices: Dataset title content**
@@ -31,15 +31,25 @@ Metadata is necessary to improve the discoverability of data within the open dat
 | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | :white_check_mark: Keep titles concise and informative. | <p><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span> Avoid using CA, California in the title if it does not meaningfully clarify the scope.</p><p></p><p><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span> Avoid using jargon and spell out acronyms.</p> |
 
-#### **Illustrative example 1: **
+****
+
+**Illustrative examples **
+
+{% tabs %}
+{% tab title="Example 1" %}
+
 
 ![](.gitbook/assets/screenshot-2021-09-24-at-7.32.38-pm.png)
+{% endtab %}
 
-**Illustrative example 2:**
+{% tab title="Example 2" %}
+
 
 ![](.gitbook/assets/screenshot-2021-09-24-at-7.34.23-pm.png)
+{% endtab %}
+{% endtabs %}
 
-###
+****
 
 ### ****:page_with_curl:** Best practices: Dataset description content**
 
@@ -47,13 +57,23 @@ Metadata is necessary to improve the discoverability of data within the open dat
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | <p><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span> Create a summary paragraph that details the contents of your data table. The first few sentences are the most important.</p><p></p><p><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span> Address the following points, if applicable:</p><ul><li>Data collection method and source (not the name of the database, but from what process, people, or organizations does the data come)</li><li><p>Purpose of dataset</p><ul><li>Include relevant ordinance references, particularly if the method or elements collected are defined in law</li></ul></li><li>Programs or policies this data supports</li></ul><p><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span> Include related legislation info if applicable.</p><p></p><p><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span> Include relevant acronyms, but make sure to clearly define them at least once.</p> | :x: Avoid using acronyms in your first few sentences. |
 
-**Illustrative example 1: **
+****
+
+**Illustrative examples**
+
+{% tabs %}
+{% tab title="Example 1" %}
+
 
 ![](.gitbook/assets/screenshot-2021-09-24-at-7.58.00-pm.png)
+{% endtab %}
 
-**Illustrative example 2: **
-
+{% tab title="Example 2" %}
 ![](.gitbook/assets/screenshot-2021-09-24-at-7.58.17-pm.png)
+{% endtab %}
+{% endtabs %}
+
+****
 
 ## Create your data dictionary
 
@@ -65,7 +85,7 @@ A data dictionary is the information you provide that tells a user exactly what 
 * [ ] Write field definitions in user friendly language
 
 {% hint style="info" %}
-****:open_file_folder: **Additional Resources: **Refer to [this list](reference-and-additional-documents/data-dictionary-what-to-include.md) for further guidance on what to include in the data dictionary. 
+****:open_file_folder: **Additional Resources: **Refer to [Data Dictionary: What to Include](reference-and-additional-documents/data-dictionary-what-to-include.md) for further guidance on what to include in the data dictionary. 
 {% endhint %}
 
 ### :page_with_curl:** **Best practices: Field definitions
@@ -91,9 +111,17 @@ A data dictionary is the information you provide that tells a user exactly what 
 
 #### Illustrative examples for field definitions
 
-![](.gitbook/assets/18.png)
+{% tabs %}
+{% tab title="Example 1" %}
 
+
+![](.gitbook/assets/18.png)
+{% endtab %}
+
+{% tab title="Example 2" %}
 ![](.gitbook/assets/19.png)
+{% endtab %}
+{% endtabs %}
 
 {% hint style="info" %}
 ****:open_file_folder: **Additional Resources: **

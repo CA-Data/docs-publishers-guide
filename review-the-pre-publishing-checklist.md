@@ -40,7 +40,7 @@ The pre-publishing checklist identifies the things you should consider at the be
 
         * [ ] Review [a list of open data standards provided by GovEx](http://datastandards.directory). If there’s an applicable standard, we suggest using or expanding on the standard. 
 
-        **Note:** The template can be used as reference in [step 3. Simplify and clean data](simplify-and-clean-data.md) and in developing your documentation in [step 4. Create metadata and data dictionary](create-metadata-and-data-dictionary.md). Publishing a data dictionary is required.
+        **Note:** The template can be used as reference in [step 3. Simplify and clean data](reference-and-additional-documents/simplify-and-clean-data.md) and in developing your documentation in [step 4. Create metadata and data dictionary](create-metadata-and-data-dictionary.md). Publishing a data dictionary is required.
 
 
 * [ ] Do you have the resources to update the dataset at the target update frequency either manually or through automation? Consider the following:
