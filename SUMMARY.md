@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [1. Review the Pre-Publishing Checklist](review-the-pre-publishing-checklist.md)
-* [2. Prepare Data](2.-prepare-data.md)
+* [2. Prepare Data for Publishing](2.-prepare-data-for-publishing.md)
 * [3. Create Metadata and Data Dictionary](create-metadata-and-data-dictionary.md)
 * [4. Upload the Dataset](upload-the-dataset.md)
 * [5. Get Final Publishing Approval](get-publishing-approval.md)

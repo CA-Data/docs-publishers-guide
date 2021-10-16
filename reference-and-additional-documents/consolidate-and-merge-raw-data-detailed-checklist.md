@@ -2,8 +2,8 @@
 
 **Return to:** 
 
-{% content-ref url="../2.-prepare-data.md" %}
-[2.-prepare-data.md](../2.-prepare-data.md)
+{% content-ref url="../2.-prepare-data-for-publishing.md" %}
+[2.-prepare-data-for-publishing.md](../2.-prepare-data-for-publishing.md)
 {% endcontent-ref %}
 
 ## Prepare for merging data
