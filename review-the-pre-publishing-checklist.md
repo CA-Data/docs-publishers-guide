@@ -2,7 +2,7 @@
 
 
 
-Identify your publishing team
+## Identify your publishing team
 
 Training and review handbook with team
 
@@ -38,7 +38,7 @@ The pre-publishing checklist identifies the things you should consider at the be
     * [ ] **Yes** - go on to the next item
     *   [ ] **No** - develop a sample data [format](https://docs.google.com/spreadsheets/u/0/d/1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4/edit) [using the metadata template](https://docs.google.com/spreadsheets/u/0/d/1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4/edit) (in Excel).
 
-        * [ ] Review [a list of open data standards provided by GovEx](http://datastandards.directory). If there’s an applicable standard, we suggest using or expanding on the standard. 
+        * [ ] Review [a list of open data standards provided by GovEx](http://datastandards.directory). If there’s an applicable standard, we suggest using or expanding on the standard.&#x20;
 
         **Note:** The template can be used as reference in [step 3. Simplify and clean data](reference-and-additional-documents/simplify-and-clean-data.md) and in developing your documentation in [step 4. Create metadata and data dictionary](create-metadata-and-data-dictionary.md). Publishing a data dictionary is required.
 
