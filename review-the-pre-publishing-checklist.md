@@ -1,14 +1,32 @@
 # 1. Review the Pre-Publishing Checklist
 
-
-
 ## Identify your publishing team
 
-Training and review handbook with team
+It takes a team to deliver high quality open data. There are 3 roles that will serve you well in making sure publishing moves forward. They are pictured below and described in the checklist following. In some cases a single person may fulfill multiple roles, but you shouldn't be on your own entirely.
 
-Start documentation
+![](.gitbook/assets/roles\_opendata.png)
 
-Identify resource needs
+### Find the person that fills each of the following roles
+
+* [ ] **Data Coordinator.** The person in your organization that acts as the laiason among teams for moving open data forward.
+* [ ] **Data Steward.** The person that has knowledge about the data itself and meaning around the data.
+* [ ] **Data Custodian. **The person that understands the technical dimensions of how the data being published is stored, secured, and accessed.&#x20;
+
+{% hint style="info" %}
+**Others may be needed as you move through the process**
+
+These three roles are core, but you may need to bring in others as you move through publishing and approval. If you have these 3 roles represented at the start, then you should have everything you need to pull in the right people at the right time.
+{% endhint %}
+
+### &#x20;Form your team
+
+* [ ] **Send a link to this handbook to the people you've identified.** Give them a heads up you'll be working on publishing - you can use this email template as a starting point.
+
+
+
+## Start documenting your dataset
+
+## Identify resource needs
 
 
 
