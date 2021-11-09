@@ -32,7 +32,7 @@ If you have questions, you can ask them in the [CalData Communities Open Data Co
 
 ![](<.gitbook/assets/publisher\_diagram (1).png>)
 
-The steps in the diagram are reproduced below with brief definitions.
+**Publishing process steps**
 
 1. [**Review the pre-publishing checklist.**](review-the-pre-publishing-checklist.md) Summarizes things to get started on, and be aware of early in the process to minimize surprises later on.
 2. ****[**Prepare data for publishing.**](2.-prepare-data-for-publishing.md) Guidance&#x20;
