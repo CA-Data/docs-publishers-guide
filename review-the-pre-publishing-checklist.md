@@ -4,6 +4,8 @@
 
 It takes a team to deliver high quality open data. There are 3 roles that will serve you well in making sure publishing moves forward. They are pictured below and described in the checklist following. In some cases a single person may fulfill multiple roles, but you shouldn't be on your own entirely.
 
+Changing this
+
 ![](.gitbook/assets/roles\_opendata.png)
 
 ### Find the person that fills each of the following roles
