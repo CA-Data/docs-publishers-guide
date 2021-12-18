@@ -1,6 +1,6 @@
 # Simplify and Clean Data: Detailed Checklist
 
-**Return to: **
+**Return to:**&#x20;
 
 {% content-ref url="../2.-prepare-data-for-publishing.md" %}
 [2.-prepare-data-for-publishing.md](../2.-prepare-data-for-publishing.md)
@@ -79,7 +79,7 @@ The dataset that you will upload must be in a delimited format with proper text 
   * This is the standard encoding for most systems and if you are unsure about the encoding of your file, [email](mailto:opendata@state.ca.gov?subject=Help%20with%20encoding%20formats%20for%20open%20data\&body=I%20need%20help%20making%20sure%20I'm%20properly%20encoding%20my%20file%20in%20UTF-8.%20Note:%20Please%20provide%20additional%20information%20like%20the%20application%20you're%20using%20to%20prepare%20the%20data%20to%20assist%20the%20team%20in%20helping%20you.) [the California Department of Technology’s Open Data Team](mailto:opendata@state.ca.gov?subject=Help%20with%20encoding%20formats%20for%20open%20data\&body=I%20need%20help%20making%20sure%20I'm%20properly%20encoding%20my%20file%20in%20UTF-8.%20Note:%20Please%20provide%20additional%20information%20like%20the%20application%20you're%20using%20to%20prepare%20the%20data%20to%20assist%20the%20team%20in%20helping%20you.).
 
 {% hint style="info" %}
-****:file_folder: **Additional Resources: **
+****:file\_folder: **Additional Resources:**&#x20;
 
 * [What is UTF-8?](https://www.twilio.com/docs/glossary/what-utf-8) from Twilio developer docs
 * [Data.gov.sg Data Quality Guide for Tabular Data](https://github.com/datagovsg/data-quality) by Singapore’s open data program

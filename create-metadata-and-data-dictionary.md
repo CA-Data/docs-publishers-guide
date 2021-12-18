@@ -1,8 +1,8 @@
-# 3. Create Metadata and Data Dictionary
+# 📙 3. Create Metadata and Data Dictionary
 
 Metadata is information about a dataset that makes the data easy to find or identify. Metadata describes the dataset’s structure, data elements, its creation, access, format, and content.
 
-Metadata is necessary to improve the discoverability of data within the open data portal and on external search engines. The more relevant information the search engine has about your data resources, the easier it will be for it to point to your resource when users search. Metadata is what helps a user narrow down thousands of data resources to just a few that will likely provide the data they need to answer their question. 
+Metadata is necessary to improve the discoverability of data within the open data portal and on external search engines. The more relevant information the search engine has about your data resources, the easier it will be for it to point to your resource when users search. Metadata is what helps a user narrow down thousands of data resources to just a few that will likely provide the data they need to answer their question.&#x20;
 
 **Without good metadata, datasets are prone to getting lost.** Below we define minimum standards and best practices for:
 
@@ -12,28 +12,28 @@ Metadata is necessary to improve the discoverability of data within the open dat
 ## Create your metadata
 
 {% hint style="info" %}
-****:open_file_folder: **Additional Resources:** [Download the metadata template](https://docs.google.com/spreadsheets/u/0/d/1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4/edit) to fill in the required information. 
+****:open\_file\_folder: **Additional Resources:** [Download the metadata template](https://docs.google.com/spreadsheets/u/0/d/1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4/edit) to fill in the required information.&#x20;
 {% endhint %}
 
-### **General checklist: **
+### **General checklist:**&#x20;
 
 * [ ] Fill in the metadata fields relevant to your dataset - [see metadata field definition reference](reference-and-additional-documents/metadata-field-definitions.md)
-* [ ] Make sure your dataset title is accessible and descriptive  
+* [ ] Make sure your dataset title is accessible and descriptive &#x20;
 * [ ] Ensure your dataset description is user friendly
 
 {% hint style="info" %}
-****:open_file_folder: **Additional** **Resources:** Refer to [Metadata Field Definitions ](reference-and-additional-documents/metadata-field-definitions.md)for definitions of and further guidance on metadata fields. 
+****:open\_file\_folder: **Additional** **Resources:** Refer to [Metadata Field Definitions ](reference-and-additional-documents/metadata-field-definitions.md)for definitions of and further guidance on metadata fields.&#x20;
 {% endhint %}
 
-### ****:page_with_curl: **Best practices: Dataset title content**
+### ****:page\_with\_curl: **Best practices: Dataset title content**
 
-| **Do's**                                                | **Dont's**                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| :white_check_mark: Keep titles concise and informative. | <p><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span> Avoid using CA, California in the title if it does not meaningfully clarify the scope.</p><p></p><p><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span> Avoid using jargon and spell out acronyms.</p> |
+| **Do's**                                                  | **Dont's**                                                                                                                                                                                                                                                                                          |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :white\_check\_mark: Keep titles concise and informative. | <p><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span> Avoid using CA, California in the title if it does not meaningfully clarify the scope.</p><p></p><p><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span> Avoid using jargon and spell out acronyms.</p> |
 
 ****
 
-**Illustrative examples **
+**Illustrative examples**&#x20;
 
 {% tabs %}
 {% tab title="Example 1" %}
@@ -51,7 +51,7 @@ Metadata is necessary to improve the discoverability of data within the open dat
 
 ****
 
-### ****:page_with_curl:** Best practices: Dataset description content**
+### ****:page\_with\_curl: **Best practices: Dataset description content**
 
 | **Do's**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Dont's**                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -79,16 +79,16 @@ Metadata is necessary to improve the discoverability of data within the open dat
 
 A data dictionary is the information you provide that tells a user exactly what is in your data resource and how it can be used. A data dictionary is what helps the user decide if your data resource will provide the data that is needed to answer their question, and also if it is in a form they can use.
 
-**General checklist: **
+**General checklist:**&#x20;
 
-* [ ] For each field, document the name, title, data type, definition and valid values if applicable 
+* [ ] For each field, document the name, title, data type, definition and valid values if applicable&#x20;
 * [ ] Write field definitions in user friendly language
 
 {% hint style="info" %}
-****:open_file_folder: **Additional Resources: **Refer to [Data Dictionary: What to Include](reference-and-additional-documents/data-dictionary-what-to-include.md) for further guidance on what to include in the data dictionary. 
+****:open\_file\_folder: **Additional Resources:** Refer to [Data Dictionary: What to Include](reference-and-additional-documents/data-dictionary-what-to-include.md) for further guidance on what to include in the data dictionary.&#x20;
 {% endhint %}
 
-### :page_with_curl:** **Best practices: Field definitions
+### :page\_with\_curl: **** Best practices: Field definitions
 
 | **Dos**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Donts**                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -124,7 +124,7 @@ A data dictionary is the information you provide that tells a user exactly what 
 {% endtabs %}
 
 {% hint style="info" %}
-****:open_file_folder: **Additional Resources: **
+****:open\_file\_folder: **Additional Resources:**&#x20;
 
 * [Metadata template](https://docs.google.com/spreadsheets/u/0/d/1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4/edit)
 {% endhint %}

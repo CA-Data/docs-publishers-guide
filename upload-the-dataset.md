@@ -1,10 +1,10 @@
 # 4. Upload the Dataset
 
-**The following only applies to publishing directly on **[**https://data.ca.gov**](https://data.ca.gov)**. **
+**The following only applies to publishing directly on** [**https://data.ca.gov**](https://data.ca.gov)**.**&#x20;
 
 If you publish to another portal, please follow the directions provided by your organization.
 
-* [ ] [Login to the statewide open data portal](https://data.ca.gov/user/login) 
+* [ ] [Login to the statewide open data portal](https://data.ca.gov/user/login)&#x20;
 * [ ] Go to ​​[https://data.ca.gov/dataset/new](https://data.ca.gov/dataset/new)
 * [ ] Copy metadata from your template into the form fields on the first screen
 * [ ] Upload your data resource on the second screen and configure the data types

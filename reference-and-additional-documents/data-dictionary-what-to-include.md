@@ -1,6 +1,6 @@
 # Data Dictionary: What to Include
 
-**Return to: **
+**Return to:**&#x20;
 
 {% content-ref url="../create-metadata-and-data-dictionary.md" %}
 [create-metadata-and-data-dictionary.md](../create-metadata-and-data-dictionary.md)

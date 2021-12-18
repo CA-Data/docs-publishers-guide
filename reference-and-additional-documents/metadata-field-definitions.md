@@ -1,6 +1,6 @@
 # Metadata Field Definitions
 
-**Return to: **
+**Return to:**&#x20;
 
 {% content-ref url="../create-metadata-and-data-dictionary.md" %}
 [create-metadata-and-data-dictionary.md](../create-metadata-and-data-dictionary.md)

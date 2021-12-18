@@ -1,6 +1,6 @@
 # Consolidate and Merge Raw Data: Detailed checklist
 
-**Return to:** 
+**Return to:**&#x20;
 
 {% content-ref url="../2.-prepare-data-for-publishing.md" %}
 [2.-prepare-data-for-publishing.md](../2.-prepare-data-for-publishing.md)
@@ -28,24 +28,24 @@
 *   [ ] **Does the number of rows in your merged dataset match the number of rows across sources?** If not, check to see if anything was dropped as a result of your merge logic.
 
 
-*   [ ] Identify numeric** **fields** **that are meant to be calculated
+*   [ ] Identify numeric **** fields **** that are meant to be calculated
 
     * [ ] **Do the sums of these fields in the merged dataset match the sum of values across the individual sources?** If not, check to see if anything was dropped as a result of your merge logic.
 
 
 *   [ ] Identify fields where there are rows with no values
 
-    * [ ] **Are the fields blank in the source data as well? **If not, check to see if anything was dropped as a result of your merge logic.
+    * [ ] **Are the fields blank in the source data as well?** If not, check to see if anything was dropped as a result of your merge logic.
 
 
-*   [ ] **Check demographic or population fields to make sure the dataset is inclusive of the full population represented across datasets. **For example, make sure all states/cities/counties or all race/ethnicity categories are included.
+*   [ ] **Check demographic or population fields to make sure the dataset is inclusive of the full population represented across datasets.** For example, make sure all states/cities/counties or all race/ethnicity categories are included.
 
     * Note any missing sub-populations in your documentation if there is no way to address them. This is to encourage proper use and interpretation of the data.
 
 
 *   [ ] Identify fields that are categorical
 
-    * [ ] **Are the categories consistent across sources? **
+    * [ ] **Are the categories consistent across sources?**&#x20;
       * **Note:** you can check this by using GROUP BY or equivalent functions in your tool of choice and sorting alphabetically. This can capture things like mis-spellings or use of different names to mean the same thing
       * Let program staff know of any discrepancies and encourage upstream fixes to data sources
       * If you cannot clean up categories for some reason, note the issues in the documentation to encourage proper use and interpretation of the data
@@ -54,7 +54,7 @@
 * [ ] Follow the [checklist in step 3. Simplify and clean data](simplify-and-clean-data.md) to perform additional checks for the usability, understandability, and quality of the dataset
 
 {% hint style="info" %}
-****:file_folder: **Additional Resources:** 
+****:file\_folder: **Additional Resources:**&#x20;
 
 * [Guide to Bullet-proofing data](https://github.com/propublica/guides/blob/master/data-bulletproofing.md) by Jennifer LaFleur, ProPublica
 * [Data Quality Testing: Ways to Test Data Validity and Accuracy](https://lakefs.io/data-quality-testing/) by Einat Orr, PhD., LakeFS
