@@ -16,3 +16,4 @@
   * [Detailed Steps for Uploading Data to the Portal](reference-and-additional-documents/detailed-steps-for-uploading-data-to-the-portal.md)
 * [Templates](templates.md)
 * [Help & FAQ](help-and-faq.md)
+* [📣 Feedback](feedback.md)
