@@ -38,7 +38,7 @@ These three roles are core, but you may need to bring in others as you move thro
 You'll iterate on this as you prepare data for publishing, but you should start at the beginning with some initial documentation on the structure of your dataset. This is helpful for you and others to get to clarity on what is being published.
 
 * [ ] ****[**Download the data documentation template (Excel file)**](https://drive.google.com/uc?export=download\&id=1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4)**.** You can use this to begin your documentation, starting with the fields you're publishing.
-* [ ] **Start by filling in the field names and aliases.** You will eventually need to provide definitions as well, but at the beginning you can keep things "good enough" for you and your team to create shared understanding of the data being published.&#x20;
+* [ ] **Start by filling in the field names and titles in Data Dictionary template tab.** You will eventually need to provide definitions as well, but at the beginning you can keep things "good enough" for you and your team to create shared understanding of the data being published.&#x20;
 
 {% hint style="info" %}
 **Hold on to your data documentation template, you'll need it later**
