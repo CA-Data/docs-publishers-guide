@@ -1,8 +1,14 @@
-# 6. Update and Maintain the Dataset
+---
+cover: >-
+  https://images.unsplash.com/photo-1516687401797-25297ff1462c?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxzaWVycmF8ZW58MHx8fHwxNjQwMDMxMjY5&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
+# 🔄 6. Update and Maintain the Dataset
 
 Some framing on the definitions of manual and automated updates.
 
-Data on the open data portals must be kept up-to-date. Specific guidance regarding updates should be addressed in technical and working documents as they are developed. Each organization should be responsible for updates to their data based on their internal data governance model. Periodic internal review is highly recommended. 
+Data on the open data portals must be kept up-to-date. Specific guidance regarding updates should be addressed in technical and working documents as they are developed. Each organization should be responsible for updates to their data based on their internal data governance model. Periodic internal review is highly recommended.&#x20;
 
 The posting frequency for updates is included in the metadata for each data table and indicates how often the data table will be refreshed (e.g., annually, monthly, daily).
 

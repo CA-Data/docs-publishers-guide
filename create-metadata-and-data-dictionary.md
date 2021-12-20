@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1501594907352-04cda38ebc29?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxjYWxpZm9ybmlhfGVufDB8fHx8MTY0MDAzMTE0NA&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # 📙 3. Create Metadata and Data Dictionary
 
 Metadata is information about a dataset that makes the data easy to find or identify. Metadata describes the dataset’s structure, data elements, its creation, access, format, and content.

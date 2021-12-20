@@ -2,6 +2,9 @@
 description: >-
   Overview of handbook including who it is for, how to use it, and how it is
   organized.
+cover: >-
+  https://images.unsplash.com/photo-1525577288853-c6f0a020a162?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxjYWxpZm9ybmlhfGVufDB8fHx8MTY0MDAzMTE0NA&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # Introduction

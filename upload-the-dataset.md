@@ -1,4 +1,10 @@
-# 4. Upload the Dataset
+---
+cover: >-
+  https://images.unsplash.com/photo-1594365458706-6fab3472f681?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxjYWxpZm9ybmlhfGVufDB8fHx8MTY0MDAzMTE0NA&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
+# 🔼 4. Upload the Dataset
 
 **The following only applies to publishing directly on** [**https://data.ca.gov**](https://data.ca.gov)**.**&#x20;
 

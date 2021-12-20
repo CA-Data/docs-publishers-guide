@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1475522003475-eb5f96f1f930?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw3fHxjYWxpZm9ybmlhfGVufDB8fHx8MTY0MDAzMTE0NA&ixlib=rb-1.2.1&q=85
+coverY: 0
+---
+
 # ☑ 1. Review the Pre-Publishing Checklist
 
 ## Identify your publishing team
