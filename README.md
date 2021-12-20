@@ -14,7 +14,9 @@ coverY: 0
 This handbook is for California State employees that want to publish open data on the [State’s Open Data Portal](https://data.ca.gov).
 
 {% hint style="warning" %}
-The guidance on uploading and publishing data only applies to direct publishing on [https://data.ca.gov](https://data.ca.gov). However, the rest of the guidance establishes **minimum** expectations for all California open data publishing.
+The guidance on uploading and publishing data only applies to direct publishing on [https://data.ca.gov](https://data.ca.gov). However, the rest of the guidance establishes **minimum** expectations for all California open data publishing.&#x20;
+
+[You can see a list of State organizations that maintain their own open data portals](reference-and-additional-documents/jason-add-reference-to-orgs-that-have-different-publishing.md). Feel free to reach out to your portal administrator if you have questions about publishing.
 {% endhint %}
 
 ## How to use the handbook

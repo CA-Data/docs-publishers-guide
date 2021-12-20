@@ -8,7 +8,7 @@
 * [👍 5. Get Final Publishing Approval](get-publishing-approval.md)
 * [🔄 6. Update and Maintain the Dataset](update-and-maintain-the-dataset.md)
 * [References](reference-and-additional-documents/README.md)
-  * [Organizations with separate open data portals](reference-and-additional-documents/jason-add-reference-to-orgs-that-have-different-publishing.md)
+  * [State organizations that publish on separate open data portals](reference-and-additional-documents/jason-add-reference-to-orgs-that-have-different-publishing.md)
   * [Consolidate and Merge Raw Data: Detailed checklist](reference-and-additional-documents/consolidate-and-merge-raw-data-detailed-checklist.md)
   * [Simplify and Clean Data: Detailed Checklist](reference-and-additional-documents/simplify-and-clean-data.md)
   * [Metadata Field Definitions](reference-and-additional-documents/metadata-field-definitions.md)

@@ -31,14 +31,14 @@ These three roles are core, but you may need to bring in others as you move thro
 
 ### Form your team
 
-* [ ] **Send a link to this handbook to the people you've identified.** Give them a heads up you'll be working on publishing - [you can use this email template as a starting point](templates.md#invite-your-team-to-help-you-publish-open-data).
+* [ ] **Send a link to this handbook to the people you've identified.** Give them a heads up you'll be working on publishing open data - [you can use this email template as a starting point](templates.md#invite-your-team-to-help-you-publish-open-data).
 
 ## Start documenting your data
 
-You'll iterate on this over the course of publishing, but you should start at the beginning with some initial documentation on the structure of your dataset. This is helpful for you and others to get to clarity on what is being published.
+You'll iterate on this as you prepare data for publishing, but you should start at the beginning with some initial documentation on the structure of your dataset. This is helpful for you and others to get to clarity on what is being published.
 
-* [ ] **Download the data documentation template.** You can use this to begin your documentation, starting with the fields you're publishing.
-* [ ] **Start by filling in the field names and aliases.** You will eventually need to provide definitions as well, but at the beginning you can keep things "good enough" for you and your team to create shared understanding.&#x20;
+* [ ] ****[**Download the data documentation template (Excel file)**](https://drive.google.com/uc?export=download\&id=1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4)**.** You can use this to begin your documentation, starting with the fields you're publishing.
+* [ ] **Start by filling in the field names and aliases.** You will eventually need to provide definitions as well, but at the beginning you can keep things "good enough" for you and your team to create shared understanding of the data being published.&#x20;
 
 {% hint style="info" %}
 **Hold on to your data documentation template, you'll need it later**
@@ -46,7 +46,7 @@ You'll iterate on this over the course of publishing, but you should start at th
 By the time you publish, you should create meaningful definitions, which is covered in section [3 Create Metadata and Data Dictionary](create-metadata-and-data-dictionary.md). You'll use this same template in that section.
 {% endhint %}
 
-## Identify possible resource needs
+## Identify possible needs for publishing support
 
 If your dataset needs to be published on a regular schedule, it's good to start thinking of what to do about that now. Even if you don't need automation, thinking about how to help others publish the data early will save you headaches later.
 
@@ -68,8 +68,8 @@ Consider alternate strategies like initially publishing manually and then follow
 
 ### **Considerations for manual publishing**
 
-If automation is not possible, or this is a dataset that gets updated infrequently (like once a year). You'll still want to make sure the approach to publishing is well documented so you can easily cross-train others on updates. Start with the following:
+If automation is not possible, or this is a dataset that gets updated infrequently (like once a year), you may update data manually. You'll still want to make sure the approach to publishing is well documented so you can easily cross-train others on updates. Start with the following:
 
-* [ ] **As you prepare your data, document your steps for producing the dataset.** Create a "standard data procedure" document that is easy for not just you but others to understand. This is the document that will make it easier to cross-train others on updating the data if necessary. [Step 2. Prepare Data for Publishing](2.-prepare-data-for-publishing.md) goes into this.
+* [ ] **As you prepare your data, document your steps for producing the dataset.** Create a "standard data update procedure" document that is easy for you and others to understand. [Step 6. Update and Maintain the Dataset](update-and-maintain-the-dataset.md) addresses this in more detail.
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfoeXoGmnWnj1Zc3uwu6MGRDRFKXlTcaKXE8kJjvvLYdl1Jxw/viewform" %}
