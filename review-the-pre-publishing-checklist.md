@@ -21,7 +21,7 @@ It takes a team to deliver high quality open data. There are 3 roles that will h
 
 * [ ] **Data Coordinator.** The person in your organization that acts as the laiason among teams for moving open data forward.
 * [ ] **Data Steward.** The person that has knowledge about the data itself and meaning around the data.
-* [ ] **Data Custodian.** The person that understands the technical dimensions of how the data being published is stored, secured, and accessed.&#x20;
+* [ ] **Data Custodian.** The person that understands the technical dimensions of how the data being published is stored, secured, and accessed.
 
 {% hint style="info" %}
 **Others may be needed as you move through the process**
@@ -37,8 +37,8 @@ These three roles are core, but you may need to bring in others as you move thro
 
 You'll iterate on this as you prepare data for publishing, but you should start at the beginning with some initial documentation on the structure of your dataset. This is helpful for you and others to get to clarity on what is being published.
 
-* [ ] ****[**Download the data documentation template (Excel file)**](https://drive.google.com/uc?export=download\&id=1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4)**.** You can use this to begin your documentation, starting with the fields you're publishing.
-* [ ] **Start by filling in the field names and titles in Data Dictionary template tab.** You will eventually need to provide definitions as well, but at the beginning you can keep things "good enough" for you and your team to create shared understanding of the data being published.&#x20;
+* [ ] [**Download the data documentation template (Excel file)**](https://drive.google.com/uc?export=download\&id=1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4)**.** You can use this to begin your documentation, starting with the fields you're publishing.
+* [ ] **Start by filling in the field names and titles in Data Dictionary template tab.** You will eventually need to provide definitions as well, but at the beginning you can keep things "good enough" for you and your team to create shared understanding of the data being published.
 
 {% hint style="info" %}
 **Hold on to your data documentation template, you'll need it later**
@@ -57,7 +57,7 @@ When data is published more frequently than quarterly, we highly recommend autom
 **If you're updating your dataset quarterly or more frequently:**
 
 * [ ] **Discuss with your data custodian and other IT contacts what's possible.** [See this template email for a starting point](templates.md#reach-out-to-your-it-team-about-publishing).
-* [ ] **Work with them on an implementation plan.** Remember, it'll take some time to prepare your data anyway, so starting this conversation early will help everyone be prepared.&#x20;
+* [ ] **Work with them on an implementation plan.** Remember, it'll take some time to prepare your data anyway, so starting this conversation early will help everyone be prepared.
 * [ ] **As you prepare your data, document your steps for producing the dataset.** Going through a process to prepare can help clarify the business rules and logic that your team will need to automate. [Step 2. Prepare Data for Publishing](2.-prepare-data-for-publishing.md) goes into this.
 
 {% hint style="info" %}
