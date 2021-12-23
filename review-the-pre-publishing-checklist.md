@@ -63,7 +63,7 @@ When data is published more frequently than quarterly, we highly recommend autom
 {% hint style="info" %}
 **Pro tip**
 
-Consider alternate strategies like initially publishing manually and then following up with automation when ready.
+Consider alternate publishing strategies like initially publishing manually and then following up with automation when resources are ready.
 {% endhint %}
 
 ### **Considerations for manual publishing**
