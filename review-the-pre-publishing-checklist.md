@@ -71,3 +71,5 @@ Consider alternate publishing strategies like initially publishing manually and 
 If automation is not possible, or this is a dataset that gets updated infrequently (like once a year), you may update data manually. You'll still want to make sure the approach to publishing is well documented so you can easily cross-train others on updates. Start with the following:
 
 * [ ] **As you prepare your data, document your steps for producing the dataset.** Create a "standard data update procedure" document that is easy for you and others to understand. [Step 6. Update and Maintain the Dataset](update-and-maintain-the-dataset.md) addresses this in more detail.
+
+{% embed url="https://forms.gle/jCKE9f41VB8yrZDc7" %}
