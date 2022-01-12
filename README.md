@@ -14,7 +14,7 @@ coverY: 0
 This handbook is for California State employees that want to publish open data on the [State’s Open Data Portal](https://data.ca.gov).
 
 {% hint style="warning" %}
-The guidance on uploading and publishing data only applies to direct publishing on [https://data.ca.gov](https://data.ca.gov). However, the rest of the guidance establishes **minimum** expectations for preparing data for publishing.
+The guidance on uploading and publishing data (sections [4](upload-the-dataset.md) and [5](get-publishing-approval.md)) only applies to direct publishing on [https://data.ca.gov](https://data.ca.gov). However, the rest of the guidance establishes **minimum** expectations for preparing data for publishing.
 
 [You can see a list of State organizations that maintain their own open data portals](reference-and-additional-documents/jason-add-reference-to-orgs-that-have-different-publishing.md). Reach out to your portal administrator or data coordinator if you have questions about publishing on those portals.
 {% endhint %}
@@ -31,11 +31,11 @@ Publishing a new open dataset takes some planning and coordination, but it doesn
 
 ## How the handbook is organized
 
-The handbook is divided into sections that line up to a general publishing process. The diagram below shows those steps and they are repeated in a list below with links to the sections.
+The handbook is divided into sections that line up to a general publishing process. The diagram below shows those steps and are listed down below with links to each section.
 
 If you have questions you can ask them in the [CalData Communities Open Data Community.](https://teams.microsoft.com/l/channel/19%3a037b34f454d94a9fa7f6aa964c052af4%40thread.tacv2/Open%20Data?groupId=0f45987a-e632-4e93-be66-ebfd6079e926\&tenantId=68a88534-151d-4e79-8046-09be7890656c)
 
-![Diagram of publishing process, read the steps below which cover the diagram](<.gitbook/assets/publisher\_diagram (1).png>)
+![The image above shows a diagram of the steps in the publishing process. These are listed below with description and links to each section.](<.gitbook/assets/publisher\_diagram (1).png>)
 
 **Publishing process steps**
 
