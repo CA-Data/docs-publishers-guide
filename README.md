@@ -26,7 +26,7 @@ Publishing a new open dataset takes some planning and coordination, but it doesn
 **Get started by:**
 
 1. Skimming the handbook to familiarize yourself with its content
-2. Starting immediately with the pre-publishing checklist
+2. Starting immediately [with the pre-publishing checklist](review-the-pre-publishing-checklist.md)
 3. Bookmarking and coming back as you move through getting your data ready for publishing
 
 ## How the handbook is organized
