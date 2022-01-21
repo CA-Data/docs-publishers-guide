@@ -43,15 +43,31 @@ Metadata is necessary to improve the discoverability of data within the open dat
 
 {% tabs %}
 {% tab title="Example 1" %}
+**Title:**&#x20;
+
+<mark style="color:red;">SW\[1]</mark> - Toxicity in <mark style="color:red;">CA\[2]</mark>&#x20;
 
 
-![](.gitbook/assets/screenshot-2021-09-24-at-7.32.38-pm.png)
+
+**Comments:**&#x20;
+
+<mark style="color:red;"></mark>:x:<mark style="color:red;">\[1]:</mark> Uses an acronym in the title that is not clearly understood by the public.&#x20;
+
+<mark style="color:red;"></mark>:x:<mark style="color:red;">\[2]:</mark> Uses CA in the title. This creates redundancy, as all datasets published on the CA Open Data Portal pertain to California.&#x20;
 {% endtab %}
 
 {% tab title="Example 2" %}
+**Title:**&#x20;
+
+Surface Water - Freshwater Harmful Algal Blooms from <mark style="color:red;">2016-2021\[1]</mark>
 
 
-![](.gitbook/assets/screenshot-2021-09-24-at-7.34.23-pm.png)
+
+**Comments:**&#x20;
+
+:white\_check\_mark:Overall, clear and concise title.&#x20;
+
+<mark style="color:red;"></mark>:x:<mark style="color:red;">\[1]:</mark> Includes an unnecessary date range. This could lead to a need to update the title, and failing to update it could lead to potential misinformation about the content of the dataset.&#x20;
 {% endtab %}
 {% endtabs %}
 
@@ -69,17 +85,51 @@ Metadata is necessary to improve the discoverability of data within the open dat
 
 {% tabs %}
 {% tab title="Example 1" %}
+**Description:**&#x20;
 
+Freshwater **** harmful algal bloom <mark style="color:blue;">(HAB)\[1]</mark> data from the Freshwater Harmful Algal Bloom <mark style="color:blue;">(FHAB)\[1]</mark> Reports database. The <mark style="color:blue;">FHAB Reports database\[2]</mark> is the California State Water Resources Control Board's data system for data and <mark style="color:blue;">information voluntarily reported through the Freshwater Incident Form found on the CA HABs Portal\[3]</mark>. <mark style="color:blue;">Due to the voluntary basis of information\[4]</mark> and data included in the database, data and information may include: waterbody name and location, algal bloom location and observed characteristics, observed and/or analytical sampling results, advisory signs, waterbody and/or land management, general information and updates regarding bloom status.
 
-![](.gitbook/assets/screenshot-2021-09-24-at-7.58.00-pm.png)
+&#x20;
+
+**Comments:**&#x20;
+
+****:x:Overall, this description does not include a defined purpose for the dataset.&#x20;
+
+<mark style="color:green;"></mark>:white\_check\_mark:<mark style="color:blue;">\[1]:</mark> Includes relevant acronyms and properly defines them.&#x20;
+
+<mark style="color:green;"></mark>:white\_check\_mark:<mark style="color:blue;">\[2]:</mark> Lists data source.&#x20;
+
+<mark style="color:green;"></mark>:white\_check\_mark:<mark style="color:blue;">\[3]:</mark> Specifies data collection method.&#x20;
+
+<mark style="color:green;"></mark>:white\_check\_mark:<mark style="color:blue;">\[4]:</mark> Specifies limitations of dataset.&#x20;
 {% endtab %}
 
 {% tab title="Example 2" %}
-![](.gitbook/assets/screenshot-2021-09-24-at-7.58.17-pm.png)
+**Description:**&#x20;
+
+Surface water toxicity data from the <mark style="color:blue;">California Environmental Data Exchange Network (CEDEN)\[1]\[2]</mark>. <mark style="color:blue;">CEDEN is the California State Water Board's data system for surface water quality in California\[3]</mark>, and seeks to include all available statewide data (such as that produced by research and volunteer organizations). <mark style="color:blue;">Data in CEDEN include field, sediment and water column data collected from freshwater, estuarine, and marine environments\[4]</mark>. Examples of data in CEDEN come from laboratory, physical and biological analyses and include data types associated with chemical, toxicological, field, bio-assessment, invertebrate, fish, and bacteriological assay assessments.&#x20;
+
+
+
+<mark style="color:blue;">The data resource "Surface Water Toxicity" contains two provisionally assigned values ("DataQuality" and "DataQualityIndicator") to help users interpret the data quality metadata provided with the associated result\[5]</mark>.&#x20;
+
+
+
+**Comments:**&#x20;
+
+<mark style="color:blue;">****</mark>:white\_check\_mark:<mark style="color:blue;">\[1]:</mark> Includes relevant acronyms and properly defines them.
+
+<mark style="color:blue;"></mark>:white\_check\_mark:<mark style="color:blue;">\[2]:</mark> Specifies data source.
+
+<mark style="color:blue;"></mark>:white\_check\_mark:<mark style="color:blue;">\[3]:</mark> Lists the program this data supports.&#x20;
+
+<mark style="color:blue;"></mark>:white\_check\_mark:<mark style="color:blue;">\[4]:</mark> Clearly lists the contents of the dataset.&#x20;
+
+<mark style="color:blue;"></mark>:white\_check\_mark:<mark style="color:blue;">\[5]:</mark> Includes relevant guidance on how to best utilize the data resource.
 {% endtab %}
 {% endtabs %}
 
-****
+
 
 ## Create your data dictionary
 
@@ -119,13 +169,38 @@ A data dictionary is the information you provide that tells a user exactly what 
 
 {% tabs %}
 {% tab title="Example 1" %}
+**Field:** Visitor Population
+
+**Description:**&#x20;
+
+<mark style="color:blue;">The number of visitors at Sequoia National Park on a given week\[1]</mark>. <mark style="color:blue;">Since the park is closed on Sundays\[2]</mark>, this includes the number of visitors from the period of Monday through Saturday, PST, <mark style="color:blue;">as reported by the National Park Service\[3]</mark>. The park has a capacity of 10,000 individuals, so the <mark style="color:blue;">allowable range will not exceed 10,000 individuals\[4]</mark>.&#x20;
 
 
-![](.gitbook/assets/18.png)
+
+Comments:&#x20;
+
+<mark style="color:blue;"></mark>:white\_check\_mark:<mark style="color:blue;">\[1]</mark>: Clear and concise description of the field.
+
+<mark style="color:blue;"></mark>:white\_check\_mark:<mark style="color:blue;">\[2]</mark>: Lists limitations of dataset.&#x20;
+
+<mark style="color:blue;"></mark>:white\_check\_mark:<mark style="color:blue;">\[3]</mark>: Specifies data source.
+
+<mark style="color:blue;"></mark>:white\_check\_mark:<mark style="color:blue;">\[4]</mark>: Lists possible range of data.&#x20;
 {% endtab %}
 
 {% tab title="Example 2" %}
-![](.gitbook/assets/19.png)
+**Field:** Bus Route Code\
+**Description:**&#x20;
+
+The code for <mark style="color:red;">BBB\[1]</mark> routes throughout Los Angeles. <mark style="color:blue;">The possible BBB routes includes: 1, Main St & Santa Monica Blvd; 5, Olympic Blvd; 10, Downtown LA Freeway Express; 41, SMC - 17th St Station - Montana Ave; 43, San Vicente Blvd & 26th St\[2]</mark>.&#x20;
+
+
+
+**Comments:**&#x20;
+
+<mark style="color:red;"></mark>:x:<mark style="color:red;">\[1]</mark>: Uses an uncommon acronym without defining it. Alternatively, define the acronym as "Big Blue Bus (BBB)".&#x20;
+
+<mark style="color:blue;"></mark>:white\_check\_mark:<mark style="color:blue;">\[2]</mark>: Lists allowable values. &#x20;
 {% endtab %}
 {% endtabs %}
 
