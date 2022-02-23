@@ -43,7 +43,7 @@ Start identifying the fields targeted for publishing. This is helpful for you an
 {% hint style="info" %}
 **Hold on to your data documentation template, you'll need it later**
 
-By the time you publish, you should create meaningful definitions, which is covered in section [3 Create Metadata and Data Dictionary](create-metadata-and-data-dictionary.md). You'll use this same template in that section.
+By the time you publish, you should create meaningful definitions, which is covered in section [3 Create Metadata and Data Dictionary](create-metadata-and-data-dictionary.md). You'll use this same template in that section.&#x20;
 {% endhint %}
 
 ## Identify possible needs for publishing support
@@ -58,7 +58,7 @@ When data is published more frequently than quarterly, we highly recommend autom
 
 * [ ] **Discuss with your data custodian and other IT contacts what's possible.** [See this template email for a starting point](templates.md#reach-out-to-your-it-team-about-publishing).
 * [ ] **Work with them on an implementation plan.** Remember, it'll take some time to prepare your data anyway, so starting this conversation early will help everyone be prepared.
-* [ ] **As you prepare your data, document your steps for producing the dataset.** Going through a process to prepare can help clarify the business rules and logic that your team will need to automate. [Step 2. Prepare Data for Publishing](2.-prepare-data-for-publishing.md) goes into this.
+* [ ] **As you prepare your data, document your steps for producing the dataset.** Going through a process to prepare can help clarify the business rules and logic that your team will need to automate. [Step 2. Prepare Data for Publishing](2.-prepare-data-for-publishing.md) has more on this.
 
 {% hint style="info" %}
 **Pro tip**
@@ -70,4 +70,4 @@ Consider alternate publishing strategies like initially publishing manually and 
 
 If automation is not possible, or this is a dataset that gets updated infrequently (like once a year), you may update data manually. You'll still want to make sure the approach to publishing is well documented so you can easily cross-train others on updates. Start with the following:
 
-* [ ] **As you prepare your data, document your steps for producing the dataset.** Create a "standard data update procedure" document that is easy for you and others to understand. [Step 6. Update and Maintain the Dataset](update-and-maintain-the-dataset.md) addresses this in more detail.
+* [ ] **As you prepare your data, document your steps for producing the dataset.** Create a data update procedure document that is easy for you and others to understand. [Step 2. Prepare Data for Publishing](2.-prepare-data-for-publishing.md) has more on this.

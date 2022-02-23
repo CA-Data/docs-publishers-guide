@@ -1,8 +1,6 @@
-# Templates
+# Email Templates
 
 ## Invite your team to help you publish open data
-
-
 
 **Template:**&#x20;
 
@@ -44,7 +42,7 @@ Best,&#x20;
 
 Jenn
 
-## Reach out to your IT team about publishing
+## Reach out to your IT team about auomation
 
 **Template:**&#x20;
 
@@ -83,6 +81,3 @@ Thanks!
 Best,
 
 Jenn
-
-__
-

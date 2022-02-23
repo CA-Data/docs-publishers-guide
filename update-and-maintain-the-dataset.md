@@ -6,22 +6,21 @@ coverY: 0
 
 # 🔄 6. Update and Maintain the Dataset
 
-Some framing on the definitions of manual and automated updates.
+It is important to maintain data updates according to the target frequency indicated in the metadata.
 
-Data on the open data portals must be kept up-to-date. Specific guidance regarding updates should be addressed in technical and working documents as they are developed. Each organization should be responsible for updates to their data based on their internal data governance model. Periodic internal review is highly recommended.&#x20;
+While automated updates are ideal, especially for more frequently updated data, we know that sometimes that's not an option. Below are considerations for making sure you can maintain data updates in line with your target frequency.
 
-The posting frequency for updates is included in the metadata for each data table and indicates how often the data table will be refreshed (e.g., annually, monthly, daily).
+## Best practices checklist: automated updates
 
-## Manual updates
+Automation will most likely be set up by a technical team in your organization. The following are practices to make sure your automation is resilient.
 
-* [ ] Ensure that you have documented easily replicable instructions for how someone could access and update the dataset
-* [ ] Ensure that there exists a plan of action for who would manage the dataset and help address issues after you, for example on moving to a new department or leaving State service
+* [ ] Dataset update steps are captured and annotated through an automated process (e.g. scripts or ETL/ELT platform)
+* [ ] Standardized and user-friendly alerts for automation success and failure are sent to appropriate points of contact including technical and program contacts
+* [ ] Sufficient logs are kept to ease troubleshooting issues and identifying root causes of ongoing problems&#x20;
 
-{% hint style="info" %}
-**Example on a standard operating procedure for updating dataset**
-{% endhint %}
+## Best practices checklist: manual updates
 
-## Automated updates
-
-* [ ] that your dataset update steps are captured and annotated through an automated process (e.g. scripts or ETL/ELT platform)
+* [ ] Place update procedure documents ([developed in Step 2](2.-prepare-data-for-publishing.md#checklist)) in a common document repository where other staff can access as needed
+* [ ] Identify one or more staff who could manage the dataset and help address issues in your absence or upon leaving your role
+* [ ] Cross-train staff on updates to ensure continuity
 

@@ -129,17 +129,23 @@ Surface water toxicity data from the <mark style="color:blue;">California Enviro
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+**Stuck on best practices, need advice?**
+
+Send a message on the [CalData Communities Open Data Channel](https://teams.microsoft.com/l/channel/19%3a037b34f454d94a9fa7f6aa964c052af4%40thread.tacv2/Open%20Data?groupId=0f45987a-e632-4e93-be66-ebfd6079e926\&tenantId=68a88534-151d-4e79-8046-09be7890656c). If you need access, [sign up here](https://forms.office.com/Pages/ResponsePage.aspx?id=NIWoaB0VeU6ARgm-eJBlbP8EsQ790KZKrhPJ1tkPH1JURjFWN1paMUtURFU5TFZOSjdTNVFZMkxEQi4u).
+{% endhint %}
+
 ## Create your data dictionary
 
-A data dictionary is the information you provide that defines the fields in your data and how the data can be used. A data dictionary is what helps the user decide if your data resource will provide the data that is needed to answer their question, and also if it is in a form they can use.
+A data dictionary is the information you provide that defines the fields in your data and how the data can be used.
 
 ### **Data dictionary checklist**
 
-* [ ] For each field, document the field name, field label, data type, definition and valid values if applicable
+* [ ] For each field, document the field name, field label, data type, definition and valid values if applicable - [see detailed reference on these elements](reference-and-additional-documents/data-dictionary-what-to-include.md)
 * [ ] Write field definitions in user friendly language - [see best practices below](create-metadata-and-data-dictionary.md#best-practices-field-definitions)
 
 {% hint style="info" %}
-****:open\_file\_folder: **Additional Resources:** Refer to [Data Dictionary: What to Include](reference-and-additional-documents/data-dictionary-what-to-include.md) for further guidance on what to include in the data dictionary.&#x20;
+****:open\_file\_folder: **Additional Resources.** Refer to [Data Dictionary: What to Include](reference-and-additional-documents/data-dictionary-what-to-include.md) for further guidance on what to include in the data dictionary.&#x20;
 {% endhint %}
 
 ### :page\_with\_curl: **** Best practices: Field definitions
@@ -150,16 +156,16 @@ A data dictionary is the information you provide that defines the fields in your
 
 
 
-#### Illustrative examples for field name, field title and data type
+#### Illustrative examples for field name, field label, and data type
 
 | _**Field Name**_    | _**Field Label**_           | _**Data Type**_ |
 | ------------------- | --------------------------- | --------------- |
-| CalculatedValue     | Calculation Value           | float           |
+| CalculatedValue     | Calculated Value            | float           |
 | Dilution            | Dilution                    | float           |
 | PSI                 | Pound-Force per Square Inch | float           |
 | Latitude            | Latitude                    | float           |
-| **WaterBodyType**   | Type of Waterbody           | text            |
-| BloomLastVerifiedOn | Bloom Last Verified on      | date            |
+| WaterBodyType       | Type of Waterbody           | text            |
+| BloomLastVerifiedOn | Date Bloom Last Verified    | date            |
 
 #### Illustrative examples for field definitions
 
@@ -201,7 +207,7 @@ The code for <mark style="color:red;">BBB\[1]</mark> routes throughout Los Angel
 {% endtabs %}
 
 {% hint style="info" %}
-****:open\_file\_folder: **Additional Resources**
+**Stuck on best practices, need advice?**
 
-* [Metadata template](https://docs.google.com/spreadsheets/u/0/d/1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4/edit)
+Send a message on the [CalData Communities Open Data Channel](https://teams.microsoft.com/l/channel/19%3a037b34f454d94a9fa7f6aa964c052af4%40thread.tacv2/Open%20Data?groupId=0f45987a-e632-4e93-be66-ebfd6079e926\&tenantId=68a88534-151d-4e79-8046-09be7890656c). If you need access, [sign up here](https://forms.office.com/Pages/ResponsePage.aspx?id=NIWoaB0VeU6ARgm-eJBlbP8EsQ790KZKrhPJ1tkPH1JURjFWN1paMUtURFU5TFZOSjdTNVFZMkxEQi4u).
 {% endhint %}
