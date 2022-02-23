@@ -21,7 +21,7 @@ It takes a team to deliver high quality open data. There are 3 roles that will h
 
 * [ ] **Data Coordinator.** The person in your organization that acts as the laiason among teams for moving open data forward.
 * [ ] **Data Steward.** The person that has knowledge about the data including how data is collected, for what purpose, and any limitations of use.
-* [ ] **Data Custodian.** The person that understands the technical dimensions of how the data being published is stored, secured, and accessed.
+* [ ] **Data Custodian.** The person that understands the technical dimensions of how the data is stored, secured, and accessed.
 
 {% hint style="info" %}
 **Others may be needed as you move through the process**

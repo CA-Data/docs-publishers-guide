@@ -6,29 +6,49 @@ coverY: 0
 
 # 🔼 4. Upload the Dataset
 
+This section provides instructions on how to upload a dataset. You can refer to the page on detailed steps for uploading data to the portal for deeper guidance.
+
+{% hint style="warning" %}
 **The following only applies to publishing directly on** [**https://data.ca.gov**](https://data.ca.gov)**.**&#x20;
 
-If you publish to another portal, please follow the directions provided by your organization.
+If you publish to another portal, please follow the directions provided by your State organization. [You can refer to the list of state organizations with their own portals](reference-and-additional-documents/jason-add-reference-to-orgs-that-have-different-publishing.md).
+{% endhint %}
+
+{% hint style="info" %}
+**Check out these complementary videos on uploading data to the portal**
+
+* [Introduction to the OpenGov porta](https://opengov.wistia.com/medias/ujfmnqys0i)[l](https://opengov.wistia.com/medias/ehimhonctb)
+* [How to create the dataset](https://opengov.wistia.com/medias/ehimhonctb)
+* [Manage data and resources](https://opengov.wistia.com/medias/fyeees62st)
+{% endhint %}
+
+## Brief checklist on uploading data and metadata
+
+### Login and add new dataset
 
 * [ ] [Login to the statewide open data portal](https://data.ca.gov/user/login)&#x20;
-* [ ] Go to ​​[https://data.ca.gov/dataset/new](https://data.ca.gov/dataset/new)
-* [ ] Copy metadata from your template into the form fields on the first screen
-* [ ] Upload your data resource on the second screen and configure the data types
-* [ ] Upload any additional supporting resources like your data dictionary and other relevant documents
-* [ ] Share your private dataset with appropriate contacts in your organization for review
+* [ ] [Add new dataset from your profile page](https://data.ca.gov/dataset/new)
 
-Refer to [Detailed Steps for Uploading Data to the Portal](reference-and-additional-documents/detailed-steps-for-uploading-data-to-the-portal.md) for more detailed guidance on the steps above.
+### Enter metadata
+
+* [ ] Copy content from the Metadata Template ([started in Step 1](review-the-pre-publishing-checklist.md#start-documenting-your-data)) from the Dataset Metadata worksheet into the form fields on the first screen
+* [ ] Ensure the field **Visibility** is set to **Private** (you will [only make public upon receiving final publishing approval](get-publishing-approval.md))
+* [ ] Click the button at the bottom labeled **Next: Add Data**&#x20;
+
+### Add data and other relevant resources
+
+* [ ] Upload your data resource on the second screen as a CSV file, enter in your title and description
+* [ ] Upload any additional supporting resources like your data dictionary and other relevant documents
+* [ ] Click the button labeled **Finish**
+* [ ] Add data field labels and definitions to each data file
+
+### Share private dataset for review
+
+* [ ] Review your private dataset page and check for errors and omissions, make edits as needed
+* [ ] Share your private dataset link with appropriate reviewers in your organization for feedback and approval
 
 {% hint style="danger" %}
 **Don't make your dataset public until you've received approval**
 
 Publishing requires approval. Work with your data coordinator to make sure you're following your organization's process.
-{% endhint %}
-
-{% hint style="info" %}
-**Need a reminder on how to upload and manage data on the portal? Check out these videos**
-
-* [Introduction to the OpenGov porta](https://opengov.wistia.com/medias/ujfmnqys0i)[l](https://opengov.wistia.com/medias/ehimhonctb)
-* [How to create the dataset](https://opengov.wistia.com/medias/ehimhonctb)
-* [Manage data and resources](https://opengov.wistia.com/medias/fyeees62st)
 {% endhint %}
