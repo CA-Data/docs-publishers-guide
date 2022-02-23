@@ -22,7 +22,7 @@ If you publish to another portal, please follow the directions provided by your 
 * [Manage data and resources](https://opengov.wistia.com/medias/fyeees62st)
 {% endhint %}
 
-## Brief checklist on uploading data and metadata
+## Checklist
 
 ### Login and add new dataset
 

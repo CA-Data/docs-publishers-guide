@@ -1,7 +1,5 @@
 # Detailed Steps for Uploading Data to the Portal
 
-****
-
 {% hint style="warning" %}
 **Experienced errors during the upload process?**
 

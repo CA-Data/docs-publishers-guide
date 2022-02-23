@@ -6,9 +6,7 @@
 [create-metadata-and-data-dictionary.md](../create-metadata-and-data-dictionary.md)
 {% endcontent-ref %}
 
-
-
-For each variable, a Data Dictionary lists:
+**For each variable, a Data Dictionary lists:**
 
 * [ ] **Field Name.** The name of the field as it's written in the source data table. It’s okay for these to be shorter, and you often won’t have complete control over these. The field title is where you can write something more descriptive that will be a reference for users.
 * [ ] **Field Title**. The common English title for the data contained in this column. Avoid using abbreviations here.
