@@ -38,7 +38,7 @@ These three roles are core, but you may need to bring in others as you move thro
 Start identifying the fields targeted for publishing. This is helpful for you and others to clarify what you are planning to publish. Keep your documentation template (linked below) somewhere safe as you'll return to it again as you move toward publishing data.
 
 * [ ] [**Download the data documentation template (Excel file)**](https://drive.google.com/uc?export=download\&id=1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4)**.** You can use this to begin your documentation, starting with the fields you're publishing.
-* [ ] **Start by filling in the field names and titles in Data Dictionary template tab.** You will eventually need to provide definitions as well, but at the beginning you can keep things "good enough" for you and your team to create shared understanding of the data being published.
+* [ ] **Start by filling in the field names and labels in the Data Dictionary template tab.** You will eventually need to provide definitions as well, but at the beginning you can keep things "good enough" for you and your team to create shared understanding of the data being published.
 
 {% hint style="info" %}
 **Hold on to your data documentation template, you'll need it later**

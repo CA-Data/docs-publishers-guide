@@ -6,7 +6,7 @@
 [create-metadata-and-data-dictionary.md](../create-metadata-and-data-dictionary.md)
 {% endcontent-ref %}
 
-##
+
 
 For each variable, a Data Dictionary lists:
 

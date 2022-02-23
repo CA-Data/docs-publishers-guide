@@ -45,7 +45,7 @@ If you publish to another portal, please follow the directions provided by your 
 ### Share private dataset for review
 
 * [ ] Review your private dataset page and check for errors and omissions, make edits as needed
-* [ ] Share your private dataset link with appropriate reviewers in your organization for feedback and approval
+* [ ] Share your private dataset link with appropriate reviewers identified with your Data Coordinator for feedback and approval
 
 {% hint style="danger" %}
 **Don't make your dataset public until you've received approval**

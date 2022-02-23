@@ -1,11 +1,11 @@
-# State organizations that publish on separate open data portals
+# Open Data Portals Managed by State Entities
 
 If you are in one of the following State organizations, you will publish open data directly through their open data portal.
 
 **Executive Agency Portals**
 
-* [Health and Human Services Agency](https://data.chhs.ca.gov) (including all CalHHS departments)
-* [Natural Resources Agency](https://data.cnra.ca.gov) (including all CNRA departments)
+* [Health and Human Services Agency](https://data.chhs.ca.gov)
+* [Natural Resources Agency](https://data.cnra.ca.gov)
 
 **Individual State Entity Portals**
 
