@@ -8,7 +8,7 @@ coverY: 0
 
 Metadata is data about data. Metadata describes the dataset’s structure, data elements, its creation, access, format, and content. A data dictionary is a type of metadata that focuses on the data elements.
 
-Metadata is necessary to improve the discoverability of data within the open data portal and on external search engines. The more relevant information the search engine has about your data resources, the easier it will be for it to point to your resource when users search.
+Metadata is necessary to improve the discoverability of data within the open data portal and on external search engines. The more relevant information the search engine has about your data resources, the easier it will be for users to find.
 
 **Without good metadata, datasets are prone to getting lost.** Below we define minimum standards and best practices for:
 
@@ -33,11 +33,17 @@ Use the metadata template [started in Step 1](review-the-pre-publishing-checklis
 ****:open\_file\_folder: **Additional** **Resources.** Refer to [Metadata Field Definitions ](reference-and-additional-documents/metadata-field-definitions.md)for definitions of and further guidance on metadata fields.&#x20;
 {% endhint %}
 
+{% hint style="info" %}
+:mega: **Want to provide feedback on future metadata guidance?**
+
+[Fill out the form to indicate interest](https://airtable.com/shrvIiRHxyAAEsq41).
+{% endhint %}
+
 ### ****:page\_with\_curl: **Best practices: Dataset title content**
 
-| **Do's**                                                  | **Dont's**                                                                                                                                                                                                                                                                                          |
-| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| :white\_check\_mark: Keep titles concise and informative. | <p><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span> Avoid using CA, California in the title if it does not meaningfully clarify the scope.</p><p></p><p><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span> Avoid using jargon and spell out acronyms.</p> |
+| **Do's**                                                  | **Dont's**                                                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :white\_check\_mark: Keep titles concise and informative. | <p><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span> Avoid using CA or California in the title if it does not meaningfully clarify the scope.</p><p></p><p><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span> Avoid using jargon and spell out acronyms.</p> |
 
 #### **Illustrative examples**
 
