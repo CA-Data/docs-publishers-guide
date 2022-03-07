@@ -19,9 +19,9 @@ It takes a team to deliver high quality open data. There are 3 roles that will h
 
 ### Find the person that fills each of the roles
 
-* [ ] **Data Coordinator.** The person in your organization that acts as the laiason among teams for moving open data forward.
-* [ ] **Data Steward.** The person that has knowledge about the data including how data is collected, for what purpose, and any limitations of use.
-* [ ] **Data Custodian.** The person that understands the technical dimensions of how the data is stored, secured, and accessed.
+* [ ] **Data Steward.** Has knowledge about how data is collected, for what purpose, and any limitations of use.
+* [ ] **Data Coordinator.** Acts as the liaison among teams for moving open data forward.
+* [ ] **Data Custodian.** Understands how the data is stored, secured, and accessed.
 
 {% hint style="info" %}
 **Others may be needed as you move through the process**
@@ -52,7 +52,7 @@ If your dataset needs to be published on a regular schedule, it's good to start 
 
 ### **Considerations for automated publishing**
 
-When data is published more frequently than quarterly, we highly recommend automating. Each organization will vary in its approach, but you can work with your IT department to investigate whether automation is possible.
+When data is published more frequently than quarterly, we highly recommend automation. Each organization will vary in its approach, but you can work with your IT department to investigate whether automation is possible.
 
 **If you're updating your dataset quarterly or more frequently:**
 
