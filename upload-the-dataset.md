@@ -23,7 +23,7 @@ This page does not yet address the specific details of publishing data on a geo 
 {% hint style="danger" %}
 **All reviewers must have accounts on data.ca.gov to review the private dataset**
 
-If you haven't checked, make sure all reviewers have access to publishing within your organization on the portal. If you need to request this access, contact the open data team.
+If you haven't checked, make sure all reviewers have access to publishing within your organization on the portal. If you need to request access, contact the open data team.
 {% endhint %}
 
 {% hint style="info" %}
