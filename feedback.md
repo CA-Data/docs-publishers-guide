@@ -1,8 +1,12 @@
 # 📣 Feedback & Help
 
-To be replaced
+## Give us feedback on this guide
 
 {% embed url="https://airtable.com/embed/shrumoQKLH9UojpPv?backgroundColor=green" %}
+
+## Help us build out additional guidance
+
+{% embed url="https://airtable.com/embed/shrvIiRHxyAAEsq41?backgroundColor=green" %}
 
 ## Need help?
 
