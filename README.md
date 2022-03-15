@@ -22,6 +22,12 @@ The guidance on uploading and publishing data (sections [4](upload-the-dataset.m
 This guide does not yet address the specific details of publishing data on a geo portal (e.g. [https://gis.data.ca.gov](https://gis.data.ca.gov)). [Sign up to give feedback and input as we develop guidance](https://airtable.com/shrvIiRHxyAAEsq41).
 {% endhint %}
 
+## :mega: Feedback and questions welcome
+
+This guidance will evolve and grow with feedback. Throughout, we've called out opportunities for feedback on additional guidance indicated with a megaphone emoji (:mega:).&#x20;
+
+If you feel stuck or have general questions, we encourage you to ask questions through the [CalData Communities Open Data Channel in Teams](https://teams.microsoft.com/l/channel/19%3a037b34f454d94a9fa7f6aa964c052af4%40thread.tacv2/Open%20Data?groupId=0f45987a-e632-4e93-be66-ebfd6079e926\&tenantId=68a88534-151d-4e79-8046-09be7890656c). This allows everyone in the community to benefit from the question. If you are not a member yet and are a State employee, [you can sign up here](https://forms.office.com/Pages/ResponsePage.aspx?id=NIWoaB0VeU6ARgm-eJBlbP8EsQ790KZKrhPJ1tkPH1JURjFWN1paMUtURFU5TFZOSjdTNVFZMkxEQi4u).
+
 ## How to use the handbook
 
 Publishing a new open dataset takes some planning and coordination, but it doesn’t have to be difficult. This handbook is designed to provide a reference guide you can return to as you go.
