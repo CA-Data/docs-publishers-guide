@@ -1,7 +1,4 @@
 ---
-description: >-
-  Overview of handbook including who it is for, how to use it, and how it is
-  organized.
 cover: >-
   https://images.unsplash.com/photo-1525577288853-c6f0a020a162?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxjYWxpZm9ybmlhfGVufDB8fHx8MTY0MDAzMTE0NA&ixlib=rb-1.2.1&q=85
 coverY: 0
@@ -11,12 +8,18 @@ coverY: 0
 
 ## Who the handbook is for
 
-This handbook is for California State employees that want to publish open data on the [State’s Open Data Portal](https://data.ca.gov).
+This handbook is for California State employees that want to publish open data on the State’s Open Data Portal ([https://data.ca.gov](https://data.ca.gov))
 
 {% hint style="warning" %}
 The guidance on uploading and publishing data (sections [4](upload-the-dataset.md) and [5](get-publishing-approval.md)) only applies to direct publishing on [https://data.ca.gov](https://data.ca.gov). However, the rest of the guidance establishes **minimum** expectations for preparing data for publishing.
 
 [You can see a list of State organizations that maintain their own open data portals](reference-and-additional-documents/jason-add-reference-to-orgs-that-have-different-publishing.md). Reach out to your portal administrator or data coordinator if you have questions about publishing on those portals.
+{% endhint %}
+
+{% hint style="success" %}
+****:mega: **Help us build guidance on geospatial data publishing**
+
+This guide does not yet address the specific details of publishing data on a geo portal (e.g. [https://gis.data.ca.gov](https://gis.data.ca.gov)). [Sign up to give feedback and input as we develop guidance](https://airtable.com/shrvIiRHxyAAEsq41).
 {% endhint %}
 
 ## How to use the handbook

@@ -14,6 +14,18 @@ This section provides instructions on how to upload a dataset. You can refer to 
 If you publish to another portal, please follow the directions provided by your State organization. [You can refer to the list of state organizations with their own portals](reference-and-additional-documents/jason-add-reference-to-orgs-that-have-different-publishing.md).
 {% endhint %}
 
+{% hint style="success" %}
+****:mega: **Help us build guidance on geospatial data publishing**
+
+This page does not yet address the specific details of publishing data on a geo portal (e.g. [https://gis.data.ca.gov](https://gis.data.ca.gov)). [Sign up to give feedback and input as we develop guidance](https://airtable.com/shrvIiRHxyAAEsq41).
+{% endhint %}
+
+{% hint style="danger" %}
+**All reviewers must have accounts on data.ca.gov to review the private dataset**
+
+If you haven't checked, please make sure all reviewers have access to publishing within your organization on the portal. If you need to request this access, contact the open data team.
+{% endhint %}
+
 {% hint style="info" %}
 **Check out these complementary videos on uploading data to the portal**
 
@@ -27,11 +39,11 @@ If you publish to another portal, please follow the directions provided by your 
 ### Login and add new dataset
 
 * [ ] [Login to the statewide open data portal](https://data.ca.gov/user/login)&#x20;
-* [ ] [Add new dataset from your profile page](https://data.ca.gov/dataset/new)
+* [ ] [Add new dataset from your profile page](https://data.ca.gov/dataset/new) (must be logged in to access this page)
 
 ### Enter metadata
 
-* [ ] Copy content from the Metadata Template ([started in Step 1](review-the-pre-publishing-checklist.md#start-documenting-your-data)) from the Dataset Metadata worksheet into the form fields on the first screen
+* [ ] Copy content from the Metadata Template ([started in Step 1](review-the-pre-publishing-checklist.md#start-documenting-your-data)) from the Dataset Metadata worksheet tab into the form fields on the first screen
 * [ ] Ensure the field **Visibility** is set to **Private** (you will [only make public upon receiving final publishing approval](get-publishing-approval.md))
 * [ ] Click the button at the bottom labeled **Next: Add Data**&#x20;
 

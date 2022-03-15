@@ -42,7 +42,7 @@ Best,&#x20;
 
 Jenn
 
-## Reach out to your IT team about auomation
+## Reach out to your IT team about automation
 
 **Template:**&#x20;
 
@@ -52,7 +52,7 @@ I am currently working on publishing open data on the [California Open Data Port
 
 Do you know if automated publishing is possible, and if so, what are the options up for consideration?&#x20;
 
-If these questions lie outside your field of expertise, I would appreciate it if you could refer me to someone who you think would be able to assist me on this.&#x20;
+If these questions lie outside your knowledge, I would appreciate it if you could refer me to someone who you think would be able to assist me on this.&#x20;
 
 Feel free to let me know if you have any questions or concerns.&#x20;
 
@@ -72,7 +72,7 @@ I am currently working on publishing open data on the [California Open Data Port
 
 Do you know if automated publishing is possible, and if so, what are the options up for consideration?&#x20;
 
-If these questions lie outside your field of expertise, I would appreciate it if you could refer me to someone who you think would be able to assist me on this.&#x20;
+If these questions lie outside your knowledge, I would appreciate it if you could refer me to someone who you think would be able to assist me on this.&#x20;
 
 Feel free to let me know if you have any questions or concerns.&#x20;
 

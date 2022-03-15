@@ -6,10 +6,9 @@ coverY: 0
 
 # 👍 5. Get Final Publishing Approval
 
-* [ ] Share your private dataset link with appropriate reviewers identified with your Data Coordinator for feedback and approval
-* [ ] Are there changes flagged by your reviewers?
+* [ ] Are there changes flagged by your reviewers after [sharing in the previous step](upload-the-dataset.md#share-private-dataset-for-review) on uploading the data?
   * [ ] **Yes** - implement the changes, and re-send for review and approval
-  * [ ] **No** - receive final approval per your organization’s process and then set the visibility of the dataset to public
+  * [ ] **No** - receive final approval per your organization’s process and then set the visibility of the dataset to public - see this guide on how to update the dataset's visibility
 * [ ] :tada: Celebrate your publishing, here are some things you can do:
   * [ ] Work with your communications team to advertise your dataset on social media
   * [ ] Write a blog post incorporating an interesting analysis of the open data

@@ -10,7 +10,7 @@ coverY: 0
 
 It takes a team to deliver high quality open data. There are 3 roles that will help you ensure publishing moves forward. They are pictured below and described in the checklist following. In some cases a single person may fulfill multiple roles, but you shouldn't be on your own entirely.
 
-### Key open data publishing roles
+### Key open data publishing roles defined
 
 | ![](.gitbook/assets/Vector.png) Data Steward                                                                                                                         | ![](.gitbook/assets/Vector\(1\).png) Data Coordinator                                                                                                                                   | ![](.gitbook/assets/Vector\(2\).png) Data Custodian                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -19,9 +19,9 @@ It takes a team to deliver high quality open data. There are 3 roles that will h
 
 ### Find the person that fills each of the roles
 
-* [ ] **Data Coordinator.** The person in your organization that acts as the laiason among teams for moving open data forward.
-* [ ] **Data Steward.** The person that has knowledge about the data including how data is collected, for what purpose, and any limitations of use.
-* [ ] **Data Custodian.** The person that understands the technical dimensions of how the data is stored, secured, and accessed.
+* [ ] **Data Steward.** Has knowledge about how data is collected, for what purpose, and any limitations of use.
+* [ ] **Data Coordinator.** Acts as the liaison among teams for moving open data forward.
+* [ ] **Data Custodian.** Understands how the data is stored, secured, and accessed.
 
 {% hint style="info" %}
 **Others may be needed as you move through the process**
@@ -32,6 +32,7 @@ These three roles are core, but you may need to bring in others as you move thro
 ### Form your team
 
 * [ ] **Send a link to this handbook to the people you've identified.** Give them a heads up you'll be working on publishing open data - [you can use this email template as a starting point](templates.md#invite-your-team-to-help-you-publish-open-data).
+* [ ] **Ensure that each reviewer on your dataset has publishing rights on the State open data portal.** If you don't know, send an email to the open data team to verify.
 
 ## Start documenting your data
 
@@ -40,10 +41,10 @@ Start identifying the fields targeted for publishing. This is helpful for you an
 * [ ] [**Download the data documentation template (Excel file)**](https://drive.google.com/uc?export=download\&id=1CHJuE89yiNUHsxrjQxseMmxRWDAs11M4)**.** You can use this to begin your documentation, starting with the fields you're publishing.
 * [ ] **Start by filling in the field names and labels in the Data Dictionary template tab.** You will eventually need to provide definitions as well, but at the beginning you can keep things "good enough" for you and your team to create shared understanding of the data being published.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Hold on to your data documentation template, you'll need it later**
 
-By the time you publish, you should create meaningful definitions, which is covered in section [3 Create Metadata and Data Dictionary](create-metadata-and-data-dictionary.md). You'll use this same template in that section.&#x20;
+By the time you publish, you should create meaningful definitions, which is covered in section [3 Create Metadata and Data Dictionary](create-metadata-and-data-dictionary.md). You'll use this same template in that section. You will eventually copy certain elements over when you upload your dataset on the portal in section [4 Upload the Dataset](upload-the-dataset.md#enter-metadata).
 {% endhint %}
 
 ## Identify possible needs for publishing support
@@ -52,7 +53,7 @@ If your dataset needs to be published on a regular schedule, it's good to start 
 
 ### **Considerations for automated publishing**
 
-When data is published more frequently than quarterly, we highly recommend automating. Each organization will vary in its approach, but you can work with your IT department to investigate whether automation is possible.
+When data is published more frequently than quarterly, we highly recommend automation. Each organization will vary in its approach, but you can work with your IT department to investigate whether automation is possible.
 
 **If you're updating your dataset quarterly or more frequently:**
 
@@ -60,7 +61,7 @@ When data is published more frequently than quarterly, we highly recommend autom
 * [ ] **Work with them on an implementation plan.** Remember, it'll take some time to prepare your data anyway, so starting this conversation early will help everyone be prepared.
 * [ ] **As you prepare your data, document your steps for producing the dataset.** Going through a process to prepare can help clarify the business rules and logic that your team will need to automate. [Step 2. Prepare Data for Publishing](2.-prepare-data-for-publishing.md) has more on this.
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Pro tip**
 
 Consider alternate publishing strategies like initially publishing manually and then following up with automation when resources are ready.

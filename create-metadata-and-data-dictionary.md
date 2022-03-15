@@ -33,10 +33,10 @@ Use the metadata template [started in Step 1](review-the-pre-publishing-checklis
 ****:open\_file\_folder: **Additional** **Resources.** Refer to [Metadata Field Definitions ](reference-and-additional-documents/metadata-field-definitions.md)for definitions of and further guidance on metadata fields.&#x20;
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 :mega: **Want to provide feedback on future metadata guidance?**
 
-[Fill out the form to indicate interest](https://airtable.com/shrvIiRHxyAAEsq41).
+We want to develop additional human-centered practice guides. [Fill out the form to indicate interest](https://airtable.com/shrvIiRHxyAAEsq41).
 {% endhint %}
 
 ### ****:page\_with\_curl: **Best practices: Dataset title content**
