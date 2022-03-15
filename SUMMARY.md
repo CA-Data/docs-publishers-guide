@@ -13,5 +13,5 @@
   * [Data Dictionary: What to Include](reference-and-additional-documents/data-dictionary-what-to-include.md)
   * [Detailed Steps for Uploading Data to the Portal](reference-and-additional-documents/detailed-steps-for-uploading-data-to-the-portal.md)
 * [Email Templates](templates.md)
-* [Help & FAQ](help-and-faq.md)
-* [📣 Feedback](feedback.md)
+* [Glossary](help-and-faq.md)
+* [📣 Feedback & Help](feedback.md)
