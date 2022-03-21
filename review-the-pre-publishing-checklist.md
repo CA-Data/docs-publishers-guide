@@ -32,7 +32,7 @@ These three roles are core, but you may need to bring in others as you move thro
 ### Form your team
 
 * [ ] **Send a link to this handbook to the people you've identified.** Give them a heads up you'll be working on publishing open data - [you can use this email template as a starting point](templates.md#invite-your-team-to-help-you-publish-open-data).
-* [ ] **Ensure that each reviewer on your dataset has publishing rights on the State open data portal.** If you don't know, send an email to the open data team to verify.
+* [ ] **Ensure that each reviewer on your dataset has publishing rights on the State open data portal.** If you don't know or need someone to be added, send an email to the open data team to verify.
 
 ## Start documenting your data
 
