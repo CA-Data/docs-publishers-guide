@@ -2,8 +2,8 @@
 
 **Return to:**&#x20;
 
-{% content-ref url="../create-metadata-and-data-dictionary.md" %}
-[create-metadata-and-data-dictionary.md](../create-metadata-and-data-dictionary.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 **For each variable, a Data Dictionary lists:**
@@ -22,5 +22,5 @@
   * **float**. A floating point number (with decimals)
     * Only use if this field is meant to be used in a calculation. Otherwise use “text”.
   * **bool**. A true/false (boolean) value; valid formats: true/false, 1/0, on/off
-* [ ] **Field Definition.** Full description of what information is included for the field. [See best practices for writing definitions](../create-metadata-and-data-dictionary.md#best-practices-field-definitions).
+* [ ] **Field Definition.** Full description of what information is included for the field. [See best practices for writing definitions](broken-reference).
 * [ ] **Valid Values.** (if applicable) Indicate what the expected set of valid values is for the field. This could be a list of controlled values, a range (for numbers and dates), or a minimum or maximum value (for numbers and dates).

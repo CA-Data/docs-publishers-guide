@@ -2,14 +2,14 @@
 
 **Return to:**&#x20;
 
-{% content-ref url="../create-metadata-and-data-dictionary.md" %}
-[create-metadata-and-data-dictionary.md](../create-metadata-and-data-dictionary.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Required Metadata
 
-* [ ] **Title**. A clear name for the dataset that does not include dates and limits the use of California or CA. See the [title checklist](../create-metadata-and-data-dictionary.md#dataset-title-content-reference-checklist) and [examples for guidance](../create-metadata-and-data-dictionary.md#dataset-title-content-reference-checklist) on writing clear titles.
-* [ ] **Description.** A plain description that will display below the title on the open data portal. See the [description checklist](../create-metadata-and-data-dictionary.md#dataset-description-content-reference-checklist) and [examples for guidance](../create-metadata-and-data-dictionary.md#dataset-description-content-reference-checklist) on writing plain descriptions.
+* [ ] **Title**. A clear name for the dataset that does not include dates and limits the use of California or CA. See the [title checklist](broken-reference) and [examples for guidance](broken-reference) on writing clear titles.
+* [ ] **Description.** A plain description that will display below the title on the open data portal. See the [description checklist](broken-reference) and [examples for guidance](broken-reference) on writing plain descriptions.
 * [ ] **Tags.** Descriptive keywords or phrases that users will search for to find the data. These can be used for providing common synonyms, legal references, and other shorthand users may use to find your data. You don’t need to repeat terms that are in your title or description and should avoid using generic terms that could apply to almost any dataset (opendata, open, transparency, etc.). Must provide at least 1.
 * [ ] **Publisher.** This is the organization you’re publishing on behalf of (your agency, department, board, or commission).
 * [ ] **Topic.** One of the following:

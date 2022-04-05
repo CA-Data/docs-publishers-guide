@@ -10,7 +10,7 @@ I'm sending this email to give you a heads up that I will be working on publishi
 
 Based on your experience, I would like to invite you to join the project as a _<mark style="color:blue;">-insert data publishing role identified here-</mark>_. As a _<mark style="color:blue;">-insert data publishing role identified here-</mark>_, you will be responsible for _<mark style="color:blue;">-insert role description-</mark>_.&#x20;
 
-You can read more about the role and the open data publishing process in the California Open Data Publisher's Handbook, linked [here](review-the-pre-publishing-checklist.md#identify-your-publishing-team).&#x20;
+You can read more about the role and the open data publishing process in the California Open Data Publisher's Handbook, linked [here](broken-reference).&#x20;
 
 If you currently lack the bandwidth to join the project, it would be extremely helpful if you can refer me to somebody else who you think will be a good fit for the role.&#x20;
 
@@ -30,7 +30,7 @@ I'm sending this email to give you a heads up that I will be working on publishi
 
 Based on your experience, I would like to invite you to join the project as a Data Coordinator. As a Data Coordinator, you will be responsible for conveying to the appropriate parties any specific needs of the open data portal and program.&#x20;
 
-You can read more about the role and the open data publishing process in the California Open Data Publisher's Handbook, linked [here](review-the-pre-publishing-checklist.md#identify-your-publishing-team).&#x20;
+You can read more about the role and the open data publishing process in the California Open Data Publisher's Handbook, linked [here](broken-reference).&#x20;
 
 If you currently lack the bandwidth to join the project, it would be extremely helpful if you can refer me to somebody else who you think will be a good fit for the role.&#x20;
 
