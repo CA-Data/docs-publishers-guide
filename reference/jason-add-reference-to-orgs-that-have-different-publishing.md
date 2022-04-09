@@ -1,6 +1,6 @@
 # Open Data Portals Managed by State Entities
 
-If you are in one of the following State organizations, you will publish open data directly through their open data portal.
+If you are in one of the following State organizations, you will publish open data directly through their open data portal, otherwise you can publish to the [Statewide Open Data Portal](https://data.ca.gov).
 
 **Executive Agency Portals**
 
