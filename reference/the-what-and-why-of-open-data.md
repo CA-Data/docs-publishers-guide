@@ -2,14 +2,14 @@
 
 ## :white\_check\_mark: What is open data?
 
-The Open Knowledge Foundation has a standard definition of open data in both short and detailed form.
+The Open Knowledge Foundation has a standard definition of open data in both short and detailed form. We've sumarized the key components and modified the definition to be specific to California standards where appropriate.
 
 **Open data is data that can be freely used, shared and built-on by anyone, anywhere, for any purpose.**
 
 Building on this, open data:
 
 1. **Is openly licensed.** In California, data _must_ be in the Public Domain.
-2. **Is accessible.** In California, data _must_ be published to an official State open data portal without restrictions.
+2. **Is accessible.** In California, data _must_ be published to an official State open data portal without restrictions. Any additional information necessary for attribution or citation _must_ also accompany the data.
 3. **Is machine readable.** Data _must_ be provided in a form readily processable by a computer and where the individual elements of the work can be easily accessed and modified.
 4. **Is in an open format.** Data _must_ be provided in an open format. An open format is one which places no restrictions, monetary or otherwise, upon its use and can be fully processed with at least one free/libre/open-source software tool.
 
