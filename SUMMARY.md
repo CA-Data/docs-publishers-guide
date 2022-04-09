@@ -11,6 +11,7 @@
 
 ## Reference
 
+* [The What and Why of Open Data](reference/the-what-and-why-of-open-data.md)
 * [Data Preparation Guidance](reference/data-preparation-guidance/README.md)
   * [Column Headers & Order](reference/data-preparation-guidance/column-headers-and-order.md)
   * [Date and Time](reference/data-preparation-guidance/date-and-time.md)
