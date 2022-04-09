@@ -32,18 +32,13 @@ If you feel stuck or have general questions, we encourage you to ask questions t
 
 Before diving in, it's important to understand a common definition of open data. This handbook guides you through publishing in a way that is consistent with this definition.
 
-The Open Knowledge Foundation has developed a standard open data and content definition. In it's short f
+The [Open Knowledge Foundation has developed a standard open data and content definition](https://opendefinition.org/od/2.1/en/), summarized below.
 
-**Open data is data that can be freely used, shared and built-on by anyone, anywhere, for any purpose.**
+> **Open data is data that can be freely used, shared and built-on by anyone, anywhere, for any purpose.**
+>
+> Building on this, open data must be **openly licensed**, **accessible**, **machine readable**, and **published in an open format**.
 
-Building on this, open data:
-
-1. **Is openly licensed.** In California, data _must_ be in the Public Domain.
-2. **Is accessible.** In California, data _must_ be published to an official State open data portal without restrictions.
-3. **Is machine readable.** Data _must_ be provided in a form readily processable by a computer and where the individual elements of the work can be easily accessed and modified.
-4. **Is in an open format.** Data _must_ be provided in an open format. An open format is one which places no restrictions, monetary or otherwise, upon its use and can be fully processed with at least one free/libre/open-source software tool.
-
-We've provided more detail on what is open data, what is not open data
+You can read more [detail on what is open data, what is not open data, and value propositions for open data](reference/the-what-and-why-of-open-data.md) in the reference section of this handbook.
 
 ## How to use the handbook
 
