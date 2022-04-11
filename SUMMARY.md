@@ -24,3 +24,5 @@
 * [Detailed Steps for Uploading Data to the Portal](reference/detailed-steps-for-uploading-data-to-the-portal.md)
 * [Email Templates](reference/templates.md)
 * [Glossary](reference/glossary.md)
+* [Acknowledgements](reference/acknowledgements.md)
+* [Version and Changelog](reference/version-and-changelog.md)
