@@ -13,7 +13,7 @@
 ## Address formatting
 
 * Addresses should be output with the level of detail relevant to the data
-  * e.g. permits can be applied down to the sub-address level
+  * e.g. permits applied down to the sub-address level
 * If providing addresses in a complete string, make sure the addresses are well formed and consistent for easy parsing, for example:
   * 741 Ellis Street, Unit 5, San Francisco, CA 94109
   * 901 Bayshore Boulevard, Unit 209, San Francisco, CA 94124
