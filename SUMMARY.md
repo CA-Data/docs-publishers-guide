@@ -12,13 +12,13 @@
 ## Reference
 
 * [The What and Why of Open Data](reference/the-what-and-why-of-open-data.md)
+* [Open Data Portals Managed by State Entities](reference/jason-add-reference-to-orgs-that-have-different-publishing.md)
 * [Data Preparation and Formatting Guidance](reference/data-preparation-guidance/README.md)
   * [Column Headers and Order](reference/data-preparation-guidance/column-headers-and-order.md)
   * [Date and Time](reference/data-preparation-guidance/date-and-time.md)
   * [Text](reference/data-preparation-guidance/text.md)
   * [Numeric](reference/data-preparation-guidance/numeric.md)
   * [Addresses](reference/data-preparation-guidance/addresses.md)
-* [Open Data Portals Managed by State Entities](reference/jason-add-reference-to-orgs-that-have-different-publishing.md)
 * [Metadata Field Definitions](reference/metadata-field-definitions.md)
 * [Data Dictionary: What to Include](reference/data-dictionary-what-to-include.md)
 * [Detailed Steps for Uploading Data to the Portal](reference/detailed-steps-for-uploading-data-to-the-portal.md)
