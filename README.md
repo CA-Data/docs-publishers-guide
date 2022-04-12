@@ -6,6 +6,8 @@ coverY: 0
 
 # Introduction
 
+[Version 1.0](reference/version-and-changelog.md#version-1.0) | Last Updated April 13, 2021
+
 ## Who the handbook is for
 
 This handbook is for California State employees that want to publish open data on the State’s Open Data Portal ([https://data.ca.gov](https://data.ca.gov))
