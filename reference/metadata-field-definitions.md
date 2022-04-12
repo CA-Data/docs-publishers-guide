@@ -1,9 +1,9 @@
 # Metadata Field Definitions
 
-**Return to:**&#x20;
+**Referenced from:**&#x20;
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../3.-create-metadata-and-data-dictionary.md" %}
+[3.-create-metadata-and-data-dictionary.md](../3.-create-metadata-and-data-dictionary.md)
 {% endcontent-ref %}
 
 ## Required Metadata

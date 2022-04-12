@@ -1,9 +1,9 @@
 # Data Dictionary: What to Include
 
-**Return to:**&#x20;
+**Referenced from:**
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../3.-create-metadata-and-data-dictionary.md" %}
+[3.-create-metadata-and-data-dictionary.md](../3.-create-metadata-and-data-dictionary.md)
 {% endcontent-ref %}
 
 **For each variable, a Data Dictionary lists:**

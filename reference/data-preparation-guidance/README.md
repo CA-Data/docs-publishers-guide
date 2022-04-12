@@ -1,5 +1,11 @@
 # Data Preparation and Formatting Guidance
 
+**Referenced from:**
+
+{% content-ref url="../../2.-prepare-data-for-publishing.md" %}
+[2.-prepare-data-for-publishing.md](../../2.-prepare-data-for-publishing.md)
+{% endcontent-ref %}
+
 This section covers format and structure standards for datasets being shared with others. These standards are designed to make sure that field level information is shared as consistently as possible to minimize:
 
 1. Errors

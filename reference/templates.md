@@ -1,5 +1,11 @@
 # Email Templates
 
+**Referenced from:**
+
+{% content-ref url="../1.-review-the-pre-publishing-checklist.md" %}
+[1.-review-the-pre-publishing-checklist.md](../1.-review-the-pre-publishing-checklist.md)
+{% endcontent-ref %}
+
 ## Invite your team to help you publish open data
 
 **Template:**&#x20;
