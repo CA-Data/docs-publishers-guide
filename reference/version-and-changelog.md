@@ -4,7 +4,7 @@ Below we document significant changes to the handbook. We won't log minor fixes 
 
 ## Version 1.0
 
-Released April 13, 2022
+Released April 26, 2022
 
 * Initial release of the handbook covering:
   * 6 overarching steps for data publishing
