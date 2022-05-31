@@ -6,7 +6,7 @@ coverY: 0
 
 # Introduction
 
-[Version 1.0](reference/version-and-changelog.md#version-1.0) | Last Updated April 26, 2021
+[Version 1.0.1](reference/version-and-changelog.md#version-1.0.1) | Last Updated May 31, 2022
 
 ## Who the handbook is for
 
