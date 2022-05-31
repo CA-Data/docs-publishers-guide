@@ -58,7 +58,7 @@ The handbook is divided into sections that line up to a general publishing proce
 
 If you are a state employee and have questions, you can ask them in the [CalData Communities Open Data Community.](https://teams.microsoft.com/l/channel/19%3a037b34f454d94a9fa7f6aa964c052af4%40thread.tacv2/Open%20Data?groupId=0f45987a-e632-4e93-be66-ebfd6079e926\&tenantId=68a88534-151d-4e79-8046-09be7890656c)
 
-![The image above shows a diagram of the steps in the publishing process. These are listed below with description and links to each section.](<.gitbook/assets/publisher\_diagram (1).png>)
+![The image above shows a diagram of the steps in the publishing process. There are six steps. These are listed below with description and links to each section.](<.gitbook/assets/publisher\_diagram (1).png>)
 
 **Publishing process steps**
 
