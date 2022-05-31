@@ -8,9 +8,9 @@
 
 ## Required Metadata
 
-* [ ] **Title**. A clear name for the dataset that does not include dates and limits the use of California or CA. See the [title checklist](broken-reference) and [examples for guidance](broken-reference) on writing clear titles.
-* [ ] **Description.** A plain description that will display below the title on the open data portal. See the [description checklist](broken-reference) and [examples for guidance](broken-reference) on writing plain descriptions.
-* [ ] **Tags.** Descriptive keywords or phrases that users will search for to find the data. These can be used for providing common synonyms, legal references, and other shorthand users may use to find your data. You don’t need to repeat terms that are in your title or description and should avoid using generic terms that could apply to almost any dataset (opendata, open, transparency, etc.). Must provide at least 1.
+* [ ] **Title**. A clear name for the dataset that does not include dates and limits the use of California or CA. See [guidance on writing titles](../3.-create-metadata-and-data-dictionary.md#best-practices-dataset-title-content).
+* [ ] **Description.** A plain description that will display below the title on the open data portal. See [guidance on writing descriptions](../3.-create-metadata-and-data-dictionary.md#best-practices-dataset-description-content). The description field can accept markdown formatting for creating things like bullets and headers using text ([see markdown guide](https://www.markdownguide.org/basic-syntax/))
+* [ ] **Tags.** Descriptive keywords or phrases that users will search for to find the data. These can be used for providing common synonyms, legal references, and other shorthand users may use to find your data. You don’t need to repeat terms that are in your title or description and should avoid using generic terms that could apply to almost any dataset (opendata, open, transparency, etc.). Must provide at least 1 and separate each tag by a comma.
 * [ ] **Publisher.** This is the organization you’re publishing on behalf of (your agency, department, board, or commission).
 * [ ] **Topic.** One of the following:
   * COVID-19
@@ -41,7 +41,7 @@
 * [ ] **Program Contact Name.** The specific group inside the agency, department, board or commission that produces the data that can best answer questions about the data.
 * [ ] **Program Contact Email.** The generic email address for the program referenced above. (e.g. [answers@library.ca.gov](mailto:answers@library.ca.gov))
 * [ ] **Public Access Level.** For data to be shared with the public, always Public. Other options on the portal not currently applicable.
-* [ ] **Rights.** Always enter “No restrictions on public use”
+* [ ] **Rights.** Always enter “No restrictions on public use.”
 
 ## If-Applicable Metadata
 
@@ -50,7 +50,7 @@
 * [ ] **Spatial/Geographic Coverage.** The geographical area the data table covers (e.g. statewide versus a sub-state region like the Bay Area). Specification should include a named area that also names California (San Francisco Bay Area 9 County Region, California) and may include geographic coordinates. In general give enough description so people can determine it's location if comingled with other non-California datasets.
 * [ ] **Temporal Coverage.** Start date and End date for the data in your data resource. Entered as a range using ISO8601 formatted date strings (e.g. 2017-01-01 to 2020-12-31)
 * [ ] **Homepage URL.** URL for the page on your website that has useful information about the data resource or the group that updates it. It's a webpage that gives context about the data and cross-links to the open data.
-* [ ] **Data Standard.** This is used to identify a standardized specification the dataset conforms to, if any. Provide a URI directly to the website that describes the standard. You can find a reference list online at [http://datastandards.directory](http://datastandards.directory)****
+* [ ] **Data Standard.** This is used to identify a standardized specification the dataset conforms to, if any. Provide a URI directly to the website that describes the standard. You can find a reference list online at [http://datastandards.directory](http://datastandards.directory/)****
 * [ ] **Language.** The language of the published data and metadata.
 
 ## Optional Metadata
