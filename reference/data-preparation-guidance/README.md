@@ -25,7 +25,7 @@ This section is adopted from [guidance published by DataSF](https://datasf.gitbo
 {% endhint %}
 
 {% hint style="success" %}
-****:mega: **Want to provide feedback on future data prep and data quality guides?**
+:mega: **Want to provide feedback on future data prep and data quality guides?**
 
 [Fill out the form to indicate interest](https://airtable.com/shrvIiRHxyAAEsq41).
 {% endhint %}

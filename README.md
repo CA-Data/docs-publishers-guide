@@ -19,16 +19,14 @@ The guidance on uploading and publishing data (sections [4](broken-reference) an
 {% endhint %}
 
 {% hint style="success" %}
-****:mega: **Help us build guidance on geospatial data publishing**
+:mega: **Help us build guidance on geospatial data publishing**
 
 This guide does not yet address the specific details of publishing data on a geo portal (e.g. [https://gis.data.ca.gov](https://gis.data.ca.gov)). [Sign up to give feedback and input as we develop guidance](https://airtable.com/shrvIiRHxyAAEsq41).
 {% endhint %}
 
 ## :mega: Feedback and questions welcome
 
-This guidance will evolve and grow with feedback. Throughout, we've called out opportunities for feedback on additional guidance indicated with a megaphone emoji (:mega:).&#x20;
-
-If you feel stuck or have general questions, we encourage you to ask questions through the [CalData Communities Open Data Channel in Teams](https://teams.microsoft.com/l/channel/19%3a037b34f454d94a9fa7f6aa964c052af4%40thread.tacv2/Open%20Data?groupId=0f45987a-e632-4e93-be66-ebfd6079e926\&tenantId=68a88534-151d-4e79-8046-09be7890656c). This allows everyone in the community to benefit from the question. If you are not a member yet and are a State employee, [you can sign up here](https://forms.office.com/Pages/ResponsePage.aspx?id=NIWoaB0VeU6ARgm-eJBlbP8EsQ790KZKrhPJ1tkPH1JURjFWN1paMUtURFU5TFZOSjdTNVFZMkxEQi4u).
+This guidance will evolve and grow with feedback. Throughout, we've called out opportunities for feedback on additional guidance indicated with a megaphone emoji (:mega:). Any feedback can be submitted through the CalData email (caldata@innovation.ca.gov).
 
 ## A definition of open data
 
@@ -56,17 +54,15 @@ Publishing a new open dataset takes some planning and coordination, but it doesn
 
 The handbook is divided into sections that line up to a general publishing process. The diagram below shows those steps and are listed down below with links to each section.
 
-If you are a state employee and have questions, you can ask them in the [CalData Communities Open Data Community.](https://teams.microsoft.com/l/channel/19%3a037b34f454d94a9fa7f6aa964c052af4%40thread.tacv2/Open%20Data?groupId=0f45987a-e632-4e93-be66-ebfd6079e926\&tenantId=68a88534-151d-4e79-8046-09be7890656c)
-
-![The image above shows a diagram of the steps in the publishing process. There are six steps. These are listed below with description and links to each section.](<.gitbook/assets/publisher\_diagram (1).png>)
+![The image above shows a diagram of the steps in the publishing process. There are six steps. These are listed below with description and links to each section. ](<.gitbook/assets/publisher\_diagram (1).png>)
 
 **Publishing process steps**
 
-1. ****[**Review the pre-publishing checklist**](1.-review-the-pre-publishing-checklist.md)**.** Summarizes things to get started on and be aware of early in the process to minimize surprises later on.
-2. ****[**Prepare data for publishing.**](2.-prepare-data-for-publishing.md) Guidance on preparing your dataset for publishing including identifying and implementing any necessary cleaning and merging of data as needed.
-3. ****[**Create metadata and data dictionary.** ](3.-create-metadata-and-data-dictionary.md)Guidance on minimum metadata and documentation needed to make the dataset useful to others.
-4. ****[**Upload the dataset.**](4.-upload-the-dataset.md) Guidance on uploading the dataset to the open data portal for those publishing directly to data.ca.gov.
-5. ****[**Get final publishing approval.**](5.-get-publishing-approval.md) Guidance on getting final approval to make the dataset publicly available.
-6. ****[**Update and maintain the dataset.**](6.-update-and-maintain-the-dataset.md) Guidance on ways to make sure the dataset is updated and maintained appropriately.
+1. [**Review the pre-publishing checklist**](1.-review-the-pre-publishing-checklist.md)**.** Summarizes things to get started on and be aware of early in the process to minimize surprises later on.
+2. [**Prepare data for publishing.**](2.-prepare-data-for-publishing.md) Guidance on preparing your dataset for publishing including identifying and implementing any necessary cleaning and merging of data as needed.
+3. [**Create metadata and data dictionary.** ](3.-create-metadata-and-data-dictionary.md)Guidance on minimum metadata and documentation needed to make the dataset useful to others.
+4. [**Upload the dataset.**](4.-upload-the-dataset.md) Guidance on uploading the dataset to the open data portal for those publishing directly to data.ca.gov.
+5. [**Get final publishing approval.**](5.-get-publishing-approval.md) Guidance on getting final approval to make the dataset publicly available.
+6. [**Update and maintain the dataset.**](6.-update-and-maintain-the-dataset.md) Guidance on ways to make sure the dataset is updated and maintained appropriately.
 
 ##

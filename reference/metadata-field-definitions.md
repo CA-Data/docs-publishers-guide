@@ -50,7 +50,7 @@
 * [ ] **Spatial/Geographic Coverage.** The geographical area the data table covers (e.g. statewide versus a sub-state region like the Bay Area). Specification should include a named area that also names California (San Francisco Bay Area 9 County Region, California) and may include geographic coordinates. In general give enough description so people can determine it's location if comingled with other non-California datasets.
 * [ ] **Temporal Coverage.** Start date and End date for the data in your data resource. Entered as a range using ISO8601 formatted date strings (e.g. 2017-01-01 to 2020-12-31)
 * [ ] **Homepage URL.** URL for the page on your website that has useful information about the data resource or the group that updates it. It's a webpage that gives context about the data and cross-links to the open data.
-* [ ] **Data Standard.** This is used to identify a standardized specification the dataset conforms to, if any. Provide a URI directly to the website that describes the standard. You can find a reference list online at [http://datastandards.directory](http://datastandards.directory/)****
+* [ ] **Data Standard.** This is used to identify a standardized specification the dataset conforms to, if any. Provide a URI directly to the website that describes the standard. You can find a reference list online at [http://datastandards.directory](http://datastandards.directory/)
 * [ ] **Language.** The language of the published data and metadata.
 
 ## Optional Metadata
