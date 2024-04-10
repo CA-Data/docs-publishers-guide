@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [☑ 1. Review the Pre-Publishing Checklist](1.-review-the-pre-publishing-checklist.md)
+* [☑️ 1. Review the Pre-Publishing Checklist](1.-review-the-pre-publishing-checklist.md)
 * [📈 2. Prepare Data for Publishing](2.-prepare-data-for-publishing.md)
 * [📙 3. Create Metadata and Data Dictionary](3.-create-metadata-and-data-dictionary.md)
 * [🔼 4. Upload the Dataset](4.-upload-the-dataset.md)

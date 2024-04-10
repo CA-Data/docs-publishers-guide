@@ -18,15 +18,9 @@ The guidance on uploading and publishing data (sections [4](broken-reference) an
 [You can see a list of State organizations that maintain their own open data portals](reference/jason-add-reference-to-orgs-that-have-different-publishing.md). Reach out to your portal administrator or data coordinator if you have questions about publishing on those portals.
 {% endhint %}
 
-{% hint style="success" %}
-:mega: **Help us build guidance on geospatial data publishing**
-
-This guide does not yet address the specific details of publishing data on a geo portal (e.g. [https://gis.data.ca.gov](https://gis.data.ca.gov)). [Sign up to give feedback and input as we develop guidance](https://airtable.com/shrvIiRHxyAAEsq41).
-{% endhint %}
-
 ## :mega: Feedback and questions welcome
 
-This guidance will evolve and grow with feedback. Throughout, we've called out opportunities for feedback on additional guidance indicated with a megaphone emoji (:mega:). Any feedback can be submitted through the CalData email (caldata@innovation.ca.gov).
+This guidance will evolve and grow with feedback. Throughout, we've called out opportunities for feedback on additional guidance indicated with a megaphone emoji (:mega:). Any feedback can be submitted to opendata@state.ca.gov.
 
 ## A definition of open data
 
